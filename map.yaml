@@ -175,151 +175,151 @@ UserObjects:
 #  Layer: tracks
 
 # Bike Routes
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2021-05-07_17-53-51_2021-05-07_17-53-51.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2021-06-04_17-53-18_2021-06-04_17-53-18.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2021-06-18_17-37-22_2021-06-18_17-37-22-PelotonEastLiverpoolLoop.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2021-07-02_18-44-59_2021-07-02_18-44-59.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2021-07-30_17-46-10_2021-07-30_17-46-10.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2021-08-13_17-48-42_2021-08-13_17-48-42.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2021-09-03_18-00-11_2021-09-03_18-00-11.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2021-11-19_18-58-06_2021-11-19_18-58-06.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-01-14_18-31-04_2022-01-14_18-31-04.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-01-28_18-48-45_2022-01-28_18-48-45.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-02-11_17-47-41_2022-02-11_17-47-41.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-02-11_19-11-56_2022-02-11_19-11-56.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-03-04_18-34-58_2022-03-04_18-34-58.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-03-18-TunnelToWirral.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-04-01_18-29-25_2022-04-01_18-29-25.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-04-29_18-12-21_2022-04-29_18-12-21.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-05-13_18-44-20_2022-05-13_18-44-20.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-06-17_18-35-33_2022-06-17_18-35-33.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-07-15_18-40-15_2022-07-15_18-40-15.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-08-26_18-58-12_2022-08-26_18-58-12.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: Port_Sunlight_cruise_then_pedal_powered_gig_at_Future_Yard.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-11-11_18-51-43_2022-11-11_18-51-43.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2022-08-12.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2023-07-21.gpx
   Layer: tracks
 
-- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+- Style: <LineSymbolizer stroke='rgb(222,0,171)' stroke-width='8' stroke-linecap='round' />
   SRS: '+init=epsg:4326'
   Type: ogr
   File: 2023-10-06.gpx
