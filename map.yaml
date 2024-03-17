@@ -1,0 +1,406 @@
+# map definition file
+# -------------------
+# general hint for this yaml config file:
+# - do not use tabs or unnecessary white spaces
+#
+# useful links:
+# - https://github.com/mapnik/mapnik/wiki/SymbologySupport
+# - http://mapnik.org/mapnik-reference
+#
+# basic symbolizers:
+# - LinePatternSymbolizer (https://github.com/mapnik/mapnik/wiki/LinePatternSymbolizer)
+# - LineSymbolizer (https://github.com/mapnik/mapnik/wiki/LineSymbolizer)
+# - MarkersSymbolizer (https://github.com/mapnik/mapnik/wiki/MarkersSymbolizer)
+# - PointSymbolizer (https://github.com/mapnik/mapnik/wiki/PointSymbolizer)
+# - PolygonPatternSymbolizer (https://github.com/mapnik/mapnik/wiki/PolygonPatternSymbolizer)
+# - PolygonSymbolizer (https://github.com/mapnik/mapnik/wiki/PolygonSymbolizer)
+# - TextSymbolizer (https://github.com/mapnik/mapnik/wiki/TextSymbolizer)
+#
+# advanced symbolizers:
+# - BuildingSymbolizer (https://github.com/mapnik/mapnik/wiki/BuildingSymbolizer)
+# - RasterSymbolizer (https://github.com/mapnik/mapnik/wiki/RasterSymbolizer)
+# - ShieldSymbolizer (https://github.com/mapnik/mapnik/wiki/ShieldSymbolizer)
+#
+
+# service configuration
+# ---------------------
+
+# URL of webservice
+ServiceURL: http://printmaps-osm.de:8282/api/beta2/maps/
+
+# proxy configuration (not to be done here)
+# - set the environment variable $HTTP_PROXY on your local system 
+# - e.g. export HTTP_PROXY=http://user:password@proxy.server:port
+
+# essential map attributes (required)
+# -----------------------------------
+
+# file format (currently only png)
+Fileformat: png
+
+# scale as in "1:10000" (e.g. 10000, 25000)
+Scale: 50000
+
+# width and height (millimeter, e.g. 609.6)
+PrintWidth: 841.0
+PrintHeight: 594.0
+
+# center coordinates (decimal degrees, e.g. 51.9506)
+Latitude: 53.4306
+Longitude: -3.0582
+
+# style / design (osm-carto, osm-carto-mono, osm-carto-ele20, schwarzplan, schwarzplan+, raster10, transparent)
+# raster10 (no map data): useful for placing / styling the user map elements
+# request the service capabilities to get a list of all available map styles
+Style: schwarzplan+
+
+# map projection, EPSG code as number (without prefix "EPSG:")
+# e.g. 3857 (EPSG:3857 / WGS84 / Web Mercator) (used by Google/Bing/OpenStreetMap)
+# e.g. 32632 (EPSG:32632 / WGS 84 / UTM Zone 32N)
+# e.g. 27700 (EPSG:27700 / OSGB 1936 / British National Grid)
+Projection: 3857
+
+# advanced map attributes (optional)
+# ----------------------------------
+
+# layers to hide (see service capabilities for possible values)
+# e.g. hide admin borders: admin-low-zoom,admin-mid-zoom,admin-high-zoom,admin-text
+# e.g. hide nature reserve borders: nature-reserve-boundaries,nature-reserve-text
+# e.g. hide tourism borders (theme park, zoo): tourism-boundary
+# e.g. hide highway shields: roads-text-ref-low-zoom,roads-text-ref
+HideLayers: admin-low-zoom,admin-mid-zoom,admin-high-zoom,admin-text,buildings
+
+# user defined objects (optional, draw order remains)
+# ---------------------------------------------------
+#
+# data object defined by ...
+# style: object style
+# srs: spatial reference system (is always '+init=epsg:4326' for gpx and kml)
+# type: type of data source (ogr, shape, gdal, csv)
+# file: name of data objects file
+# layer: data layer to extract (only required for ogr)
+#
+# item object defined by ...
+# style: object style
+# well-known-text: object definition
+#
+# well-known-text:
+#   POINT, LINESTRING, POLYGON, MULTIPOINT, MULTILINESTRING, MULTIPOLYGON
+#   all values are in millimeter (reference X0 Y0: lower left map corner)
+#
+# font sets:
+#   fontset-0: Noto Fonts normal
+#   fontset-1: Noto Fonts italic
+#   fontset-2: Noto Fonts bold
+
+UserObjects:
+
+# Add the docks to the map
+- Style: <PolygonSymbolizer fill='rgb(187,207,207)' fill-opacity='1.0' /> 
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: docks.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke-dasharray="5,2" stroke-width="1" stroke="grey" clip="false" />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: railway.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='grey' stroke-width='1.2' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: motorway.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='grey' stroke-width='1.2' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: trunk.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='grey' stroke-width='1.2' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: primary.gpx
+  Layer: tracks
+
+#- Style: <LineSymbolizer stroke='grey' stroke-width='7' stroke-linecap='round' />
+#  SRS: '+init=epsg:4326'
+#  Type: ogr
+#  File: secondary.gpx
+#  Layer: tracks
+#
+#- Style: <LineSymbolizer stroke='grey' stroke-width='6' stroke-linecap='round' />
+#  SRS: '+init=epsg:4326'
+#  Type: ogr
+#  File: tertiary.gpx
+#  Layer: tracks
+#
+#- Style: <LineSymbolizer stroke='grey' stroke-width='5' stroke-linecap='round' />
+#  SRS: '+init=epsg:4326'
+#  Type: ogr
+#  File: unclassified.gpx
+#  Layer: tracks
+#  
+#- Style: <LineSymbolizer stroke='grey' stroke-width='5' stroke-linecap='round' />
+#  SRS: '+init=epsg:4326'
+#  Type: ogr
+#  File: residential.gpx
+#  Layer: tracks
+#
+#- Style: <LineSymbolizer stroke='grey' stroke-width='5' stroke-linecap='round' />
+#  SRS: '+init=epsg:4326'
+#  Type: ogr
+#  File: living_street.gpx
+#  Layer: tracks
+#
+#- Style: <LineSymbolizer stroke='grey' stroke-width='4' stroke-linecap='round' />
+#  SRS: '+init=epsg:4326'
+#  Type: ogr
+#  File: service.gpx
+#  Layer: tracks
+#
+#- Style: <LineSymbolizer stroke='grey' stroke-width='4' stroke-linecap='round' />
+#  SRS: '+init=epsg:4326'
+#  Type: ogr
+#  File: road.gpx
+#  Layer: tracks
+#
+#- Style: <LineSymbolizer stroke='grey' stroke-width='4' stroke-linecap='round' />
+#  SRS: '+init=epsg:4326'
+#  Type: ogr
+#  File: track.gpx
+#  Layer: tracks
+
+# Bike Routes
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2021-05-07_17-53-51_2021-05-07_17-53-51.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2021-06-04_17-53-18_2021-06-04_17-53-18.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2021-06-18_17-37-22_2021-06-18_17-37-22-PelotonEastLiverpoolLoop.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2021-07-02_18-44-59_2021-07-02_18-44-59.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2021-07-30_17-46-10_2021-07-30_17-46-10.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2021-08-13_17-48-42_2021-08-13_17-48-42.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2021-09-03_18-00-11_2021-09-03_18-00-11.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2021-11-19_18-58-06_2021-11-19_18-58-06.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-01-14_18-31-04_2022-01-14_18-31-04.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-01-28_18-48-45_2022-01-28_18-48-45.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-02-11_17-47-41_2022-02-11_17-47-41.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-02-11_19-11-56_2022-02-11_19-11-56.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-03-04_18-34-58_2022-03-04_18-34-58.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-03-18-TunnelToWirral.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-04-01_18-29-25_2022-04-01_18-29-25.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-04-29_18-12-21_2022-04-29_18-12-21.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-05-13_18-44-20_2022-05-13_18-44-20.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-06-17_18-35-33_2022-06-17_18-35-33.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-07-15_18-40-15_2022-07-15_18-40-15.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-08-26_18-58-12_2022-08-26_18-58-12.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: Port_Sunlight_cruise_then_pedal_powered_gig_at_Future_Yard.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-11-11_18-51-43_2022-11-11_18-51-43.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2022-08-12.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2023-07-21.gpx
+  Layer: tracks
+
+- Style: <LineSymbolizer stroke='blue' stroke-width='8' stroke-linecap='round' />
+  SRS: '+init=epsg:4326'
+  Type: ogr
+  File: 2023-10-06.gpx
+  Layer: tracks
+
+# frame
+- Style: <PolygonSymbolizer fill='white' fill-opacity='1.0' /> 
+  WellKnownText: POLYGON((0.0 0.0, 0.0 594.0, 841.0 594.0, 841.0 0.0, 0.0 0.0), (30.0 30.0, 30.0 564.0, 811.0 564.0, 811.0 30.0, 30.0 30.0))
+
+# border (around map area)
+- Style: <LineSymbolizer stroke='grey' stroke-width='0.75' />
+  WellKnownText: LINESTRING(30.0 30.0, 30.0 564.0, 811.0 564.0, 811.0 30.0, 30.0 30.0)
+
+# copyright
+- Style: <TextSymbolizer fontset-name='fontset-0' size='12' fill='grey' orientation='90' allow-overlap='true'>'© OpenStreetMap contributors'</TextSymbolizer>
+  WellKnownText: POINT(15 694.5)
+
+# Title text
+#- Style: <TextSymbolizer fontset-name='fontset-2' size='250' fill='rgba(12,5,5,1)' allow-overlap='true'>'#JoyRide'</TextSymbolizer>
+#  WellKnownText: POINT(190.5 500.0)
+#- Style: <TextSymbolizer fontset-name='fontset-2' size='175' fill='rgba(12,5,5,1)' allow-overlap='true'>'Peloton Liverpool'</TextSymbolizer>
+#  WellKnownText: POINT(140.5 420.0)
+
+# crop marks (only the half line width is visible)
+#- Style: <LineSymbolizer stroke='red' stroke-width='1.5' stroke-linecap='square' />
+#  WellKnownText: MULTILINESTRING((5.0 0.0, 0.0 0.0, 0.0 5.0), (5.0 594.0, 0.0 594.0, 0.0 1184.0), (836.0 594.0, 841.0 594.0, 841.0 1184.0), (836.0 0.0, 841.0 0.0, 841.0 5.0))
+
+# user files to upload
+# --------------------
+
+UserFiles:
+- docks.gpx
+# overpass-turbo.eu Wizard: railway=*
+- railway.gpx
+# overpass-turbo.eu Wizard: highway=motorway or highway=motorway_link
+- motorway.gpx
+# overpass-turbo.eu Wizard: highway=trunk or highway=trunk_link
+- trunk.gpx
+# overpass-turbo.eu Wizard: highway=primary or highway=primary_link
+- primary.gpx
+# overpass-turbo.eu Wizard: highway=secondary or highway=secondary_link
+- secondary.gpx
+# overpass-turbo.eu Wizard: highway=tertiary or highway=tertiary_link
+- tertiary.gpx
+# overpass-turbo.eu Wizard: highway=unclassified
+- unclassified.gpx
+# overpass-turbo.eu Wizard: highway=residential
+- residential.gpx
+# overpass-turbo.eu Wizard: highway=service
+- service.gpx
+# overpass-turbo.eu Wizard: highway=living_street
+- living_street.gpx
+# overpass-turbo.eu Wizard: highway=road
+- road.gpx
+# overpass-turbo.eu Wizard: highway=track
+- track.gpx
+# Bike Routes
+
+- 2021-05-07_17-53-51_2021-05-07_17-53-51.gpx
+- 2021-06-04_17-53-18_2021-06-04_17-53-18.gpx
+- 2021-06-18_17-37-22_2021-06-18_17-37-22-PelotonEastLiverpoolLoop.gpx
+- 2021-07-02_18-44-59_2021-07-02_18-44-59.gpx
+- 2021-07-30_17-46-10_2021-07-30_17-46-10.gpx
+- 2021-08-13_17-48-42_2021-08-13_17-48-42.gpx
+- 2021-09-03_18-00-11_2021-09-03_18-00-11.gpx
+- 2021-11-19_18-58-06_2021-11-19_18-58-06.gpx
+- 2022-01-14_18-31-04_2022-01-14_18-31-04.gpx
+- 2022-01-28_18-48-45_2022-01-28_18-48-45.gpx
+- 2022-02-11_17-47-41_2022-02-11_17-47-41.gpx
+- 2022-02-11_19-11-56_2022-02-11_19-11-56.gpx
+- 2022-03-04_18-34-58_2022-03-04_18-34-58.gpx
+- 2022-03-18-TunnelToWirral.gpx
+- 2022-04-01_18-29-25_2022-04-01_18-29-25.gpx
+- 2022-04-29_18-12-21_2022-04-29_18-12-21.gpx
+- 2022-05-13_18-44-20_2022-05-13_18-44-20.gpx
+- 2022-06-17_18-35-33_2022-06-17_18-35-33.gpx
+- 2022-07-15_18-40-15_2022-07-15_18-40-15.gpx
+- 2022-08-26_18-58-12_2022-08-26_18-58-12.gpx
+- Port_Sunlight_cruise_then_pedal_powered_gig_at_Future_Yard.gpx
+- 2022-11-11_18-51-43_2022-11-11_18-51-43.gpx
+- 2022-08-12.gpx
+- 2023-07-21.gpx
+- 2023-10-06.gpx
+

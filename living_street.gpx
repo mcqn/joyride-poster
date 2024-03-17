@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="overpass-ide"><metadata><desc>Filtered OSM data converted to GPX by overpass turbo</desc><copyright author="The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."/><time>2022-09-29T18:55:38Z</time></metadata><trk><name>Victoria Avenue</name><desc>highway=living_street
+maxspeed=20 mph
+name=Victoria Avenue
+source=OS_Locator</desc><link href="http://osm.org/browse/way/16776947"/><trkseg><trkpt lat="53.5534585" lon="-2.6451847"/><trkpt lat="53.5531848" lon="-2.6451289"/></trkseg></trk><trk><name>Hardy Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Hardy Street</desc><link href="http://osm.org/browse/way/16776966"/><trkseg><trkpt lat="53.5534458" lon="-2.6459601"/><trkpt lat="53.5531846" lon="-2.6459057"/><trkpt lat="53.5524309" lon="-2.6457542"/><trkpt lat="53.5521491" lon="-2.6456959"/></trkseg></trk><trk><name>Rupert Street</name><desc>access:conditional=no @ (sunrise-sunset); destination @ (sunrise-sunset)
+highway=living_street
+maxspeed=20 mph
+name=Rupert Street
+note=Surviving example of a Play Street.
+surface=cobblestone
+vehicle=destination</desc><link href="http://osm.org/browse/way/23344921"/><trkseg><trkpt lat="53.5438238" lon="-2.6193953"/><trkpt lat="53.5441098" lon="-2.6197261"/><trkpt lat="53.5442527" lon="-2.6198991"/></trkseg></trk><trk><name>Hunt Street</name><desc>access:conditional=no @ (sunrise-sunset); destination @ (sunrise-sunset)
+highway=living_street
+maxspeed=20 mph
+name=Hunt Street
+note=Surviving example of a Play Street.
+surface=cobblestone
+vehicle=destination</desc><link href="http://osm.org/browse/way/23344922"/><trkseg><trkpt lat="53.5441098" lon="-2.6197261"/><trkpt lat="53.5442306" lon="-2.6194276"/><trkpt lat="53.5444326" lon="-2.6189285"/></trkseg></trk><trk><name>Roscoe Street</name><desc>access:conditional=no @ (sunrise-sunset); destination @ (sunrise-sunset)
+highway=living_street
+maxspeed=20 mph
+name=Roscoe Street
+note=Surviving example of a Play Street.
+source=Bing:ITO
+surface=cobblestone
+vehicle=destination</desc><link href="http://osm.org/browse/way/23344924"/><trkseg><trkpt lat="53.5444326" lon="-2.6189285"/><trkpt lat="53.5441847" lon="-2.6187363"/><trkpt lat="53.5439704" lon="-2.6186092"/></trkseg></trk><trk><name>way/24942837</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/24942837"/><trkseg><trkpt lat="53.5491739" lon="-3.0937214"/><trkpt lat="53.5491485" lon="-3.0936509"/><trkpt lat="53.5491167" lon="-3.0935931"/><trkpt lat="53.549071" lon="-3.0935503"/><trkpt lat="53.5490113" lon="-3.093514"/><trkpt lat="53.5489376" lon="-3.0934477"/><trkpt lat="53.5488575" lon="-3.0933364"/><trkpt lat="53.5488029" lon="-3.0932316"/><trkpt lat="53.5487787" lon="-3.0931461"/><trkpt lat="53.5487673" lon="-3.0930477"/><trkpt lat="53.5487713" lon="-3.0929357"/><trkpt lat="53.5488029" lon="-3.0928167"/><trkpt lat="53.5488651" lon="-3.0926605"/><trkpt lat="53.5488893" lon="-3.0925707"/><trkpt lat="53.5489096" lon="-3.092421"/><trkpt lat="53.5489681" lon="-3.0919205"/><trkpt lat="53.5489871" lon="-3.0918221"/><trkpt lat="53.5490265" lon="-3.0917451"/><trkpt lat="53.5490774" lon="-3.0916873"/><trkpt lat="53.549129" lon="-3.0916568"/><trkpt lat="53.5492095" lon="-3.0916553"/><trkpt lat="53.5494249" lon="-3.0916938"/><trkpt lat="53.5497001" lon="-3.0917813"/><trkpt lat="53.5498267" lon="-3.0918215"/></trkseg></trk><trk><name>Cambridge Street</name><desc>highway=living_street
+name=Cambridge Street
+oneway=yes
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/25222010"/><trkseg><trkpt lat="53.362023" lon="-2.7286348"/><trkpt lat="53.363008" lon="-2.7291408"/><trkpt lat="53.3636035" lon="-2.7294925"/></trkseg></trk><trk><name>Cambridge Street</name><desc>highway=living_street
+name=Cambridge Street
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/25222012"/><trkseg><trkpt lat="53.3639368" lon="-2.7296726"/><trkpt lat="53.3636035" lon="-2.7294925"/></trkseg></trk><trk><name>Trinity Place</name><desc>highway=living_street
+name=Trinity Place
+source=bing
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/25222016"/><trkseg><trkpt lat="53.363008" lon="-2.7291408"/><trkpt lat="53.3629205" lon="-2.7296181"/><trkpt lat="53.362768" lon="-2.7295334"/></trkseg></trk><trk><name>Trinity Place</name><desc>highway=living_street
+name=Trinity Place
+source=bing
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/25222020"/><trkseg><trkpt lat="53.3629205" lon="-2.7296181"/><trkpt lat="53.3630593" lon="-2.7296936"/></trkseg></trk><trk><name>Oxford Street</name><desc>highway=living_street
+name=Oxford Street
+oneway=yes
+source=bing
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/25510552"/><trkseg><trkpt lat="53.3623166" lon="-2.7276623"/><trkpt lat="53.3626159" lon="-2.7279605"/><trkpt lat="53.3631805" lon="-2.7284016"/><trkpt lat="53.3634436" lon="-2.728488"/><trkpt lat="53.3637544" lon="-2.7285314"/><trkpt lat="53.3645285" lon="-2.7285506"/><trkpt lat="53.3646355" lon="-2.7285245"/><trkpt lat="53.3646645" lon="-2.7284583"/></trkseg></trk><trk><name>Quinn Street</name><desc>highway=living_street
+name=Quinn Street
+oneway=yes
+source=bing
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/25510556"/><trkseg><trkpt lat="53.3643855" lon="-2.727152"/><trkpt lat="53.3643158" lon="-2.7271447"/><trkpt lat="53.3642361" lon="-2.7272251"/><trkpt lat="53.3641371" lon="-2.7273762"/><trkpt lat="53.3639085" lon="-2.7277024"/><trkpt lat="53.3637671" lon="-2.7277855"/><trkpt lat="53.3636484" lon="-2.727787"/><trkpt lat="53.3635065" lon="-2.7277004"/><trkpt lat="53.3632938" lon="-2.7273845"/><trkpt lat="53.3628494" lon="-2.7266866"/></trkseg></trk><trk><name>Alfred Street</name><desc>highway=living_street
+name=Alfred Street
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/25510557"/><trkseg><trkpt lat="53.3643855" lon="-2.727152"/><trkpt lat="53.3645335" lon="-2.7269399"/><trkpt lat="53.364663" lon="-2.7268815"/><trkpt lat="53.3648635" lon="-2.7267947"/><trkpt lat="53.365039" lon="-2.7267299"/></trkseg></trk><trk><name>Alfred Close</name><desc>highway=living_street
+name=Alfred Close
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/25510558"/><trkseg><trkpt lat="53.3648635" lon="-2.7267947"/><trkpt lat="53.3649338" lon="-2.7273573"/></trkseg></trk><trk><name>Keble Street</name><desc>highway=living_street
+name=Keble Street
+oneway=yes
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/25515736"/><trkseg><trkpt lat="53.3637544" lon="-2.7285314"/><trkpt lat="53.3636035" lon="-2.7294925"/><trkpt lat="53.3634843" lon="-2.7302283"/><trkpt lat="53.3634717" lon="-2.7303063"/><trkpt lat="53.3634172" lon="-2.7306426"/></trkseg></trk><trk><name>Brynn Street</name><desc>foot=yes
+highway=living_street
+name=Brynn Street
+oneway=yes</desc><link href="http://osm.org/browse/way/25809263"/><trkseg><trkpt lat="53.3646645" lon="-2.7284583"/><trkpt lat="53.3644293" lon="-2.7272756"/><trkpt lat="53.3643855" lon="-2.727152"/></trkseg></trk><trk><name>Cairo Street</name><desc>access=destination
+bicycle=designated
+foot=designated
+highway=living_street
+horse=yes
+maxspeed=20 mph
+motor_vehicle=destination
+name=Cairo Street
+surface=paving_stones</desc><link href="http://osm.org/browse/way/25924561"/><trkseg><trkpt lat="53.3887934" lon="-2.5951745"/><trkpt lat="53.3887436" lon="-2.5951656"/><trkpt lat="53.3882263" lon="-2.5949831"/><trkpt lat="53.3882071" lon="-2.5949826"/><trkpt lat="53.3881917" lon="-2.5949861"/></trkseg></trk><trk><name>Wellfield Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Wellfield Street</desc><link href="http://osm.org/browse/way/30363031"/><trkseg><trkpt lat="53.3886856" lon="-2.613546"/><trkpt lat="53.3885775" lon="-2.613923"/></trkseg></trk><trk><name>Fox Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Fox Street
+oneway=yes</desc><link href="http://osm.org/browse/way/30363033"/><trkseg><trkpt lat="53.3911058" lon="-2.614804"/><trkpt lat="53.3908315" lon="-2.6147862"/><trkpt lat="53.3906138" lon="-2.6147809"/><trkpt lat="53.3903481" lon="-2.6147787"/><trkpt lat="53.3895146" lon="-2.6147408"/></trkseg></trk><trk><name>Selby Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Selby Street</desc><link href="http://osm.org/browse/way/30363037"/><trkseg><trkpt lat="53.3894997" lon="-2.6154224"/><trkpt lat="53.3895045" lon="-2.6150824"/><trkpt lat="53.3895146" lon="-2.6147408"/><trkpt lat="53.3895288" lon="-2.6143822"/><trkpt lat="53.3895409" lon="-2.6139647"/></trkseg></trk><trk><name>Selby Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Selby Street</desc><link href="http://osm.org/browse/way/30363038"/><trkseg><trkpt lat="53.3895409" lon="-2.6139647"/><trkpt lat="53.389544" lon="-2.613882"/><trkpt lat="53.3895961" lon="-2.6135842"/><trkpt lat="53.3896191" lon="-2.6134397"/></trkseg></trk><trk><name>Percy Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Percy Street</desc><link href="http://osm.org/browse/way/30363040"/><trkseg><trkpt lat="53.3903373" lon="-2.6154721"/><trkpt lat="53.3903405" lon="-2.6151239"/><trkpt lat="53.3903481" lon="-2.6147787"/><trkpt lat="53.3903557" lon="-2.6144281"/><trkpt lat="53.3903662" lon="-2.6140017"/></trkseg></trk><trk><name>Kimberley Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Kimberley Street
+oneway=yes</desc><link href="http://osm.org/browse/way/30363041"/><trkseg><trkpt lat="53.3894997" lon="-2.6154224"/><trkpt lat="53.3896349" lon="-2.6154326"/><trkpt lat="53.3903373" lon="-2.6154721"/><trkpt lat="53.3907893" lon="-2.6155006"/><trkpt lat="53.3910941" lon="-2.6155193"/></trkseg></trk><trk><name>Whitecross Road</name><desc>highway=living_street
+maxspeed=20 mph
+name=Whitecross Road</desc><link href="http://osm.org/browse/way/30363042"/><trkseg><trkpt lat="53.3912802" lon="-2.6130007"/><trkpt lat="53.3911831" lon="-2.6129616"/><trkpt lat="53.3909965" lon="-2.6128865"/><trkpt lat="53.390879" lon="-2.6128427"/><trkpt lat="53.3908065" lon="-2.6128157"/><trkpt lat="53.390722" lon="-2.6127842"/><trkpt lat="53.390691" lon="-2.6127727"/><trkpt lat="53.390545" lon="-2.6127183"/><trkpt lat="53.3904328" lon="-2.6126768"/><trkpt lat="53.3904269" lon="-2.6126746"/><trkpt lat="53.3902897" lon="-2.6126196"/><trkpt lat="53.3901017" lon="-2.6125501"/><trkpt lat="53.3898805" lon="-2.6124678"/><trkpt lat="53.3897751" lon="-2.6124289"/><trkpt lat="53.3897054" lon="-2.6124049"/><trkpt lat="53.3896712" lon="-2.612381"/><trkpt lat="53.3896409" lon="-2.6123478"/><trkpt lat="53.3896198" lon="-2.6123052"/><trkpt lat="53.3896041" lon="-2.6122549"/><trkpt lat="53.3895961" lon="-2.6122004"/><trkpt lat="53.3895954" lon="-2.6121368"/><trkpt lat="53.3895875" lon="-2.6120754"/><trkpt lat="53.3895723" lon="-2.6120233"/><trkpt lat="53.3895537" lon="-2.6119838"/><trkpt lat="53.3895296" lon="-2.6119566"/><trkpt lat="53.3894225" lon="-2.6119238"/><trkpt lat="53.3892728" lon="-2.6119977"/><trkpt lat="53.3891916" lon="-2.6120937"/><trkpt lat="53.3891132" lon="-2.6122045"/><trkpt lat="53.3890988" lon="-2.6122345"/><trkpt lat="53.3890658" lon="-2.6123034"/></trkseg></trk><trk><name>Percy Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Percy Street</desc><link href="http://osm.org/browse/way/30660863"/><trkseg><trkpt lat="53.3903662" lon="-2.6140017"/><trkpt lat="53.3904239" lon="-2.6136145"/><trkpt lat="53.3904376" lon="-2.6135225"/><trkpt lat="53.3904494" lon="-2.6134433"/></trkseg></trk><trk><name>Brackley Street</name><desc>highway=living_street
+is_in:suburb=Dukesfield
+maxspeed=20 mph
+name=Brackley Street</desc><link href="http://osm.org/browse/way/30751523"/><trkseg><trkpt lat="53.3425114" lon="-2.741939"/><trkpt lat="53.3427676" lon="-2.7416312"/><trkpt lat="53.3430313" lon="-2.7412938"/><trkpt lat="53.3430984" lon="-2.741208"/></trkseg></trk><trk><name>Clifton Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Clifton Street
+oneway=yes</desc><link href="http://osm.org/browse/way/30797126"/><trkseg><trkpt lat="53.3834731" lon="-2.5833436"/><trkpt lat="53.383436" lon="-2.5829274"/><trkpt lat="53.3833992" lon="-2.5825125"/><trkpt lat="53.3833372" lon="-2.5818941"/><trkpt lat="53.3833079" lon="-2.581601"/></trkseg></trk><trk><name>The Hollies</name><desc>highway=living_street
+maxspeed=30 mph
+name=The Hollies</desc><link href="http://osm.org/browse/way/31297650"/><trkseg><trkpt lat="53.3319219" lon="-2.712078"/><trkpt lat="53.3318879" lon="-2.7122003"/><trkpt lat="53.3318747" lon="-2.7122691"/><trkpt lat="53.3319837" lon="-2.712695"/><trkpt lat="53.3319241" lon="-2.7127846"/></trkseg></trk><trk><name>Ealing Close</name><desc>highway=living_street
+maxspeed=30 mph
+name=Ealing Close</desc><link href="http://osm.org/browse/way/39375174"/><trkseg><trkpt lat="53.3357241" lon="-2.6682892"/><trkpt lat="53.3356938" lon="-2.6678863"/><trkpt lat="53.3356884" lon="-2.6678603"/></trkseg></trk><trk><name>Elstow Close</name><desc>highway=living_street
+lit=yes
+name=Elstow Close
+smoothness=good
+surface=asphalt</desc><link href="http://osm.org/browse/way/43898804"/><trkseg><trkpt lat="53.6789565" lon="-2.6560456"/><trkpt lat="53.6785175" lon="-2.6559902"/><trkpt lat="53.6784505" lon="-2.6560816"/><trkpt lat="53.6784394" lon="-2.6562841"/></trkseg></trk><trk><name>Summerfield Walk</name><desc>foot=yes
+highway=living_street
+name=Summerfield Walk</desc><link href="http://osm.org/browse/way/43898806"/><trkseg><trkpt lat="53.6795111" lon="-2.6552607"/><trkpt lat="53.6795134" lon="-2.6555208"/><trkpt lat="53.6795289" lon="-2.6556174"/><trkpt lat="53.6795101" lon="-2.6563059"/></trkseg></trk><trk><name>Bradshawgate</name><desc>highway=living_street
+lanes=1
+lit=yes
+maxspeed=10 mph
+name=Bradshawgate
+old_ref=A572
+oneway=yes
+source=NAPTAN bus data
+surface=paving_stones</desc><link href="http://osm.org/browse/way/53551444"/><trkseg><trkpt lat="53.4963503" lon="-2.5178216"/><trkpt lat="53.496345" lon="-2.5177381"/><trkpt lat="53.4963179" lon="-2.5173572"/><trkpt lat="53.4962525" lon="-2.5165159"/><trkpt lat="53.4962358" lon="-2.5163234"/><trkpt lat="53.4962133" lon="-2.5160639"/><trkpt lat="53.4961891" lon="-2.5158031"/><trkpt lat="53.4961209" lon="-2.5150586"/></trkseg></trk><trk><name>Ravens Wood</name><desc>highway=living_street
+name=Ravens Wood
+source=OS_OpenData_StreetView</desc><link href="http://osm.org/browse/way/58763245"/><trkseg><trkpt lat="53.5795814" lon="-2.4804671"/><trkpt lat="53.5796371" lon="-2.4805739"/><trkpt lat="53.5796529" lon="-2.4806178"/><trkpt lat="53.5796662" lon="-2.4806904"/><trkpt lat="53.579669" lon="-2.4807603"/><trkpt lat="53.5796628" lon="-2.4808302"/><trkpt lat="53.5796221" lon="-2.4810759"/><trkpt lat="53.5795989" lon="-2.4813228"/><trkpt lat="53.5795806" lon="-2.4814042"/><trkpt lat="53.579523" lon="-2.4815287"/><trkpt lat="53.5794893" lon="-2.4816272"/><trkpt lat="53.5794759" lon="-2.4817073"/><trkpt lat="53.5794659" lon="-2.4818808"/></trkseg></trk><trk><name>Ravens Holme</name><desc>highway=living_street
+name=Ravens Holme
+source=OS_OpenData_StreetView
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/58763246"/><trkseg><trkpt lat="53.5793128" lon="-2.4824315"/><trkpt lat="53.5792988" lon="-2.4825203"/><trkpt lat="53.5793352" lon="-2.4826181"/></trkseg></trk><trk><name>Sandhill Close</name><desc>highway=living_street
+name=Sandhill Close
+source=OS_OpenData_StreetView</desc><link href="http://osm.org/browse/way/58799467"/><trkseg><trkpt lat="53.5641601" lon="-2.4308696"/><trkpt lat="53.5641956" lon="-2.4305855"/><trkpt lat="53.5642083" lon="-2.4304843"/></trkseg></trk><trk><name>Union Street</name><desc>highway=living_street
+name=Union Street
+source=OS_OpenData_StreetView</desc><link href="http://osm.org/browse/way/60464506"/><trkseg><trkpt lat="53.4963503" lon="-2.5178216"/><trkpt lat="53.4968786" lon="-2.5177207"/></trkseg></trk><trk><name>Farnborough Road</name><desc>highway=living_street
+name=Farnborough Road</desc><link href="http://osm.org/browse/way/79322868"/><trkseg><trkpt lat="53.6122284" lon="-2.4361805"/><trkpt lat="53.6122491" lon="-2.4360236"/><trkpt lat="53.612272" lon="-2.4359883"/><trkpt lat="53.6123988" lon="-2.4358584"/><trkpt lat="53.6124307" lon="-2.4358349"/><trkpt lat="53.6126232" lon="-2.4357708"/></trkseg></trk><trk><name>The Beeches</name><desc>highway=living_street
+name=The Beeches
+source=OS_OpenData_StreetView</desc><link href="http://osm.org/browse/way/79326238"/><trkseg><trkpt lat="53.6091114" lon="-2.443446"/><trkpt lat="53.609129" lon="-2.4435285"/><trkpt lat="53.6091025" lon="-2.4436003"/></trkseg></trk><trk><name>Masbury Close</name><desc>highway=living_street
+name=Masbury Close
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/79328590"/><trkseg><trkpt lat="53.6135932" lon="-2.4357542"/><trkpt lat="53.6137109" lon="-2.4358997"/><trkpt lat="53.6137841" lon="-2.4359901"/><trkpt lat="53.6138129" lon="-2.4360459"/><trkpt lat="53.613822" lon="-2.4361059"/><trkpt lat="53.6138181" lon="-2.4361754"/><trkpt lat="53.6137119" lon="-2.4364078"/><trkpt lat="53.6136907" lon="-2.436473"/><trkpt lat="53.6136791" lon="-2.4365571"/><trkpt lat="53.61366" lon="-2.4366236"/><trkpt lat="53.6136052" lon="-2.4366777"/><trkpt lat="53.6135619" lon="-2.4366876"/></trkseg></trk><trk><name>Princess Terrace</name><desc>foot=yes
+highway=living_street
+name=Princess Terrace
+source=bing
+surface=paved</desc><link href="http://osm.org/browse/way/97224046"/><trkseg><trkpt lat="53.38447" lon="-3.0374021"/><trkpt lat="53.3849755" lon="-3.0377379"/></trkseg></trk><trk><name>Harlyn Gardens</name><desc>highway=living_street
+maxspeed=20 mph
+name=Harlyn Gardens
+oneway=no</desc><link href="http://osm.org/browse/way/116139636"/><trkseg><trkpt lat="53.3797464" lon="-2.6683015"/><trkpt lat="53.379833" lon="-2.66827"/><trkpt lat="53.3799544" lon="-2.6682211"/></trkseg></trk><trk><name>Marchwood Close</name><desc>highway=living_street
+name=Marchwood Close
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/121747140"/><trkseg><trkpt lat="53.5777564" lon="-2.5612711"/><trkpt lat="53.5775663" lon="-2.5609206"/><trkpt lat="53.5775334" lon="-2.5609704"/><trkpt lat="53.5773187" lon="-2.5612952"/><trkpt lat="53.5774842" lon="-2.5616179"/></trkseg></trk><trk><name>way/121996637</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/121996637"/><trkseg><trkpt lat="53.5807322" lon="-2.646934"/><trkpt lat="53.5808341" lon="-2.6469983"/><trkpt lat="53.5808006" lon="-2.6472753"/></trkseg></trk><trk><name>Tilside Grove</name><desc>highway=living_street
+name=Tilside Grove
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/127665941"/><trkseg><trkpt lat="53.5768145" lon="-2.4998574"/><trkpt lat="53.5768314" lon="-2.5003189"/><trkpt lat="53.5768429" lon="-2.5004343"/><trkpt lat="53.5768758" lon="-2.5006381"/><trkpt lat="53.5768847" lon="-2.5007385"/><trkpt lat="53.5768837" lon="-2.5009653"/><trkpt lat="53.5768627" lon="-2.5013234"/></trkseg></trk><trk><name>Dane Bank Road</name><desc>bicycle=yes
+foot=yes
+highway=living_street
+maxspeed=20 mph
+name=Dane Bank Road</desc><link href="http://osm.org/browse/way/130293282"/><trkseg><trkpt lat="53.3836566" lon="-2.4815238"/><trkpt lat="53.3834048" lon="-2.4810331"/><trkpt lat="53.3833534" lon="-2.4809327"/></trkseg></trk><trk><name>Princess Terrace</name><desc>foot=yes
+highway=living_street
+name=Princess Terrace
+source=bing
+surface=paved</desc><link href="http://osm.org/browse/way/132727527"/><trkseg><trkpt lat="53.3847134" lon="-3.0364223"/><trkpt lat="53.3852208" lon="-3.0367907"/></trkseg></trk><trk><name>River Road</name><desc>alt_name=Old River Road
+highway=living_street
+maxspeed=20 mph
+name=River Road</desc><link href="http://osm.org/browse/way/133744993"/><trkseg><trkpt lat="53.3792681" lon="-2.5872368"/><trkpt lat="53.3792237" lon="-2.5873081"/><trkpt lat="53.3791114" lon="-2.5874881"/><trkpt lat="53.3790383" lon="-2.5876558"/></trkseg></trk><trk><name>Springfield Street</name><desc>cycleway:both=no
+highway=living_street
+lane_markings=no
+maxspeed=20 mph
+name=Springfield Street
+source=yahoo, area knowledge
+surface=paving_stones</desc><link href="http://osm.org/browse/way/134203590"/><trkseg><trkpt lat="53.3878387" lon="-2.5983271"/><trkpt lat="53.3878055" lon="-2.5983205"/><trkpt lat="53.3876427" lon="-2.5982883"/><trkpt lat="53.3875083" lon="-2.5982601"/></trkseg></trk><trk><name>River Road</name><desc>VCNAME=Cheshire
+VCNUMBER=58
+alt_name=Old River Road
+bicycle=yes
+foot=yes
+highway=living_street
+horse=yes
+lanes=2
+maxspeed=20 mph
+motor_vehicle=yes
+name=River Road
+source=nbn_opendata</desc><link href="http://osm.org/browse/way/144158121"/><trkseg><trkpt lat="53.3825116" lon="-2.5916051"/><trkpt lat="53.382499" lon="-2.5916056"/><trkpt lat="53.3821345" lon="-2.5913563"/><trkpt lat="53.3815268" lon="-2.5908909"/><trkpt lat="53.3813248" lon="-2.5907287"/><trkpt lat="53.3811145" lon="-2.590557"/><trkpt lat="53.3809296" lon="-2.5904079"/><trkpt lat="53.3807375" lon="-2.5902343"/><trkpt lat="53.38061" lon="-2.5900993"/><trkpt lat="53.3804709" lon="-2.5899294"/><trkpt lat="53.3803645" lon="-2.5897933"/><trkpt lat="53.3802097" lon="-2.5895951"/><trkpt lat="53.380147" lon="-2.5895193"/><trkpt lat="53.3800797" lon="-2.5894186"/><trkpt lat="53.3800013" lon="-2.5892863"/><trkpt lat="53.379661" lon="-2.5886931"/><trkpt lat="53.3793801" lon="-2.5882551"/><trkpt lat="53.3791624" lon="-2.5879204"/><trkpt lat="53.3790465" lon="-2.5877334"/><trkpt lat="53.3790383" lon="-2.5876558"/></trkseg></trk><trk><name>way/159837864</name><desc>highway=living_street
+surface=asphalt</desc><link href="http://osm.org/browse/way/159837864"/><trkseg><trkpt lat="53.7000079" lon="-2.6961351"/><trkpt lat="53.6997443" lon="-2.6962478"/><trkpt lat="53.6997157" lon="-2.6962719"/><trkpt lat="53.699695" lon="-2.6963255"/><trkpt lat="53.6996907" lon="-2.6963625"/><trkpt lat="53.6996872" lon="-2.6963919"/><trkpt lat="53.6996998" lon="-2.6965267"/><trkpt lat="53.6997874" lon="-2.6969721"/></trkseg></trk><trk><name>way/159837886</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/159837886"/><trkseg><trkpt lat="53.7009939" lon="-2.700829"/><trkpt lat="53.7010115" lon="-2.7007693"/><trkpt lat="53.7010321" lon="-2.700721"/><trkpt lat="53.7010575" lon="-2.7006969"/><trkpt lat="53.7013211" lon="-2.7007433"/></trkseg></trk><trk><name>way/159837892</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/159837892"/><trkseg><trkpt lat="53.7010178" lon="-2.700542"/><trkpt lat="53.7010241" lon="-2.7005956"/><trkpt lat="53.7010417" lon="-2.7006566"/><trkpt lat="53.7010575" lon="-2.7006969"/></trkseg></trk><trk><name>way/159837894</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/159837894"/><trkseg><trkpt lat="53.6993822" lon="-2.6964033"/><trkpt lat="53.6996427" lon="-2.6963034"/><trkpt lat="53.6996776" lon="-2.6963229"/><trkpt lat="53.6996907" lon="-2.6963625"/></trkseg></trk><trk><name>way/161293527</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/161293527"/><trkseg><trkpt lat="53.6563481" lon="-2.7618036"/><trkpt lat="53.6564069" lon="-2.7617633"/><trkpt lat="53.6564625" lon="-2.7617472"/><trkpt lat="53.6565144" lon="-2.7617529"/><trkpt lat="53.6565674" lon="-2.7617955"/><trkpt lat="53.6566008" lon="-2.7618519"/><trkpt lat="53.6567089" lon="-2.7622488"/><trkpt lat="53.6567169" lon="-2.7623025"/><trkpt lat="53.6567153" lon="-2.7623507"/><trkpt lat="53.6567057" lon="-2.7623883"/><trkpt lat="53.6566787" lon="-2.7624205"/><trkpt lat="53.6565738" lon="-2.7624956"/><trkpt lat="53.6562737" lon="-2.7627473"/></trkseg></trk><trk><name>way/162844235</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/162844235"/><trkseg><trkpt lat="53.7004191" lon="-2.6997346"/><trkpt lat="53.7003778" lon="-2.6997481"/><trkpt lat="53.7003337" lon="-2.6997716"/><trkpt lat="53.700275" lon="-2.6997689"/><trkpt lat="53.7002289" lon="-2.6997796"/><trkpt lat="53.7002032" lon="-2.6998044"/><trkpt lat="53.7001956" lon="-2.6998574"/><trkpt lat="53.7001937" lon="-2.6999385"/><trkpt lat="53.7001908" lon="-2.7000371"/><trkpt lat="53.7002051" lon="-2.7000747"/><trkpt lat="53.7002543" lon="-2.7001042"/><trkpt lat="53.7006668" lon="-2.7001236"/><trkpt lat="53.700697" lon="-2.7001182"/><trkpt lat="53.7007208" lon="-2.7001021"/><trkpt lat="53.7007256" lon="-2.7000485"/></trkseg></trk><trk><name>way/162844236</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/162844236"/><trkseg><trkpt lat="53.7018514" lon="-2.6952715"/><trkpt lat="53.7017945" lon="-2.6953191"/><trkpt lat="53.7017453" lon="-2.6953513"/><trkpt lat="53.701685" lon="-2.6953942"/><trkpt lat="53.7016021" lon="-2.6954539"/></trkseg></trk><trk><name>way/162844237</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/162844237"/><trkseg><trkpt lat="53.7000047" lon="-2.6977606"/><trkpt lat="53.7000028" lon="-2.6978249"/><trkpt lat="53.6999923" lon="-2.6982686"/></trkseg></trk><trk><name>Slater Court</name><desc>highway=living_street
+name=Slater Court
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/164044570"/><trkseg><trkpt lat="53.6895486" lon="-2.7269295"/><trkpt lat="53.6895074" lon="-2.7266666"/><trkpt lat="53.6894835" lon="-2.7266371"/><trkpt lat="53.6894518" lon="-2.7266371"/><trkpt lat="53.689419" lon="-2.726644"/><trkpt lat="53.6893951" lon="-2.7266654"/><trkpt lat="53.6893618" lon="-2.726703"/><trkpt lat="53.6893215" lon="-2.7267283"/><trkpt lat="53.689168" lon="-2.7267654"/></trkseg></trk><trk><name>Silver Birch Close</name><desc>highway=living_street
+name=Silver Birch Close</desc><link href="http://osm.org/browse/way/172446695"/><trkseg><trkpt lat="53.5859171" lon="-2.5157453"/><trkpt lat="53.5859231" lon="-2.5155709"/><trkpt lat="53.5859433" lon="-2.515442"/><trkpt lat="53.585962" lon="-2.5153795"/><trkpt lat="53.5859893" lon="-2.5153247"/><trkpt lat="53.5858755" lon="-2.5148307"/></trkseg></trk><trk><name>Wesley Street</name><desc>access=private
+bicycle=dismount
+cycleway=*
+foot=yes
+highway=living_street
+maxspeed=20 mph
+motor_vehicle=no
+name=Wesley Street
+oneway=yes
+surface=asphalt</desc><link href="http://osm.org/browse/way/172903471"/><trkseg><trkpt lat="53.6457034" lon="-3.0033925"/><trkpt lat="53.6451559" lon="-3.0046717"/></trkseg></trk><trk><name>Rotherhead Close</name><desc>highway=living_street
+name=Rotherhead Close</desc><link href="http://osm.org/browse/way/189396237"/><trkseg><trkpt lat="53.5940185" lon="-2.5607083"/><trkpt lat="53.5940719" lon="-2.5607656"/><trkpt lat="53.5942079" lon="-2.5609786"/></trkseg></trk><trk><name>Wiltshire Grove</name><desc>highway=living_street
+name=Wiltshire Grove</desc><link href="http://osm.org/browse/way/191071315"/><trkseg><trkpt lat="53.6803436" lon="-2.6580212"/><trkpt lat="53.6803212" lon="-2.6579026"/><trkpt lat="53.6803204" lon="-2.6577922"/><trkpt lat="53.6801763" lon="-2.6575552"/><trkpt lat="53.6801063" lon="-2.657438"/><trkpt lat="53.6800943" lon="-2.6574151"/><trkpt lat="53.6800961" lon="-2.6572446"/><trkpt lat="53.6801994" lon="-2.6570067"/><trkpt lat="53.6803146" lon="-2.6569738"/><trkpt lat="53.6804066" lon="-2.6569149"/></trkseg></trk><trk><name>Brackla Place</name><desc>highway=living_street
+lit=yes
+name=Brackla Place
+smoothness=good
+surface=paved</desc><link href="http://osm.org/browse/way/191071323"/><trkseg><trkpt lat="53.6790074" lon="-2.6524765"/><trkpt lat="53.6791201" lon="-2.6524903"/><trkpt lat="53.6793442" lon="-2.652525"/><trkpt lat="53.6794586" lon="-2.6524631"/></trkseg></trk><trk><name>Patricroft Drive</name><desc>highway=living_street
+lit=yes
+name=Patricroft Drive
+smoothness=good
+surface=paved</desc><link href="http://osm.org/browse/way/191074483"/><trkseg><trkpt lat="53.6795565" lon="-2.6546317"/><trkpt lat="53.6795709" lon="-2.6539215"/><trkpt lat="53.6795859" lon="-2.6536267"/><trkpt lat="53.6796042" lon="-2.6532892"/><trkpt lat="53.6796145" lon="-2.6530224"/><trkpt lat="53.679615" lon="-2.6529407"/></trkseg></trk><trk><name>way/191081543</name><desc>highway=living_street
+lit=yes
+smoothness=good
+surface=paved</desc><link href="http://osm.org/browse/way/191081543"/><trkseg><trkpt lat="53.6837594" lon="-2.6610157"/><trkpt lat="53.684177" lon="-2.6603688"/></trkseg></trk><trk><name>way/191082459</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/191082459"/><trkseg><trkpt lat="53.6819722" lon="-2.6674249"/><trkpt lat="53.6819152" lon="-2.6675424"/><trkpt lat="53.6817087" lon="-2.6675531"/></trkseg></trk><trk><name>Sussex Place</name><desc>highway=living_street
+name=Sussex Place</desc><link href="http://osm.org/browse/way/191539819"/><trkseg><trkpt lat="53.681129" lon="-2.6548391"/><trkpt lat="53.6810451" lon="-2.6546213"/><trkpt lat="53.6810462" lon="-2.6541283"/></trkseg></trk><trk><name>way/199105765</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/199105765"/><trkseg><trkpt lat="53.5490463" lon="-3.0947417"/><trkpt lat="53.5489249" lon="-3.0947353"/><trkpt lat="53.5485932" lon="-3.0946818"/><trkpt lat="53.5485487" lon="-3.0946818"/><trkpt lat="53.5485182" lon="-3.0947032"/><trkpt lat="53.5484915" lon="-3.0947502"/><trkpt lat="53.5484242" lon="-3.0949791"/><trkpt lat="53.5484076" lon="-3.0950304"/><trkpt lat="53.548381" lon="-3.0950754"/><trkpt lat="53.5483428" lon="-3.0951353"/><trkpt lat="53.5483085" lon="-3.0952251"/></trkseg></trk><trk><name>way/199105766</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/199105766"/><trkseg><trkpt lat="53.5479171" lon="-3.0953727"/><trkpt lat="53.5477964" lon="-3.0952593"/><trkpt lat="53.5476811" lon="-3.0951278"/><trkpt lat="53.5476045" lon="-3.0950614"/></trkseg></trk><trk><name>way/199105767</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=yes
+surface=asphalt</desc><link href="http://osm.org/browse/way/199105767"/><trkseg><trkpt lat="53.5491739" lon="-3.0937214"/><trkpt lat="53.5492108" lon="-3.0934241"/><trkpt lat="53.5493023" lon="-3.0927204"/><trkpt lat="53.5493036" lon="-3.0926456"/><trkpt lat="53.5493012" lon="-3.0925857"/><trkpt lat="53.5492845" lon="-3.0924916"/><trkpt lat="53.5492616" lon="-3.0924424"/><trkpt lat="53.5492273" lon="-3.0924081"/><trkpt lat="53.5491892" lon="-3.0923996"/><trkpt lat="53.549125" lon="-3.0924264"/><trkpt lat="53.5490913" lon="-3.0924531"/><trkpt lat="53.5490354" lon="-3.0924809"/><trkpt lat="53.5489909" lon="-3.0924851"/><trkpt lat="53.548949" lon="-3.0924638"/><trkpt lat="53.5489096" lon="-3.092421"/></trkseg></trk><trk><name>way/199105768</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=yes
+surface=asphalt</desc><link href="http://osm.org/browse/way/199105768"/><trkseg><trkpt lat="53.549071" lon="-3.0935503"/><trkpt lat="53.5491193" lon="-3.0935396"/><trkpt lat="53.5491612" lon="-3.0935011"/><trkpt lat="53.5492108" lon="-3.0934241"/></trkseg></trk><trk><name>way/199105769</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=yes
+surface=asphalt</desc><link href="http://osm.org/browse/way/199105769"/><trkseg><trkpt lat="53.5479171" lon="-3.0953727"/><trkpt lat="53.5480137" lon="-3.0951545"/><trkpt lat="53.5480518" lon="-3.0951096"/><trkpt lat="53.5480874" lon="-3.0950989"/><trkpt lat="53.5481242" lon="-3.0951117"/><trkpt lat="53.5483085" lon="-3.0952251"/></trkseg></trk><trk><name>way/199105770</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=yes
+surface=asphalt</desc><link href="http://osm.org/browse/way/199105770"/><trkseg><trkpt lat="53.5483085" lon="-3.0952251"/><trkpt lat="53.5482399" lon="-3.0954967"/><trkpt lat="53.5482119" lon="-3.0955652"/><trkpt lat="53.5481713" lon="-3.0955994"/><trkpt lat="53.5481166" lon="-3.0955994"/><trkpt lat="53.5480671" lon="-3.0955823"/><trkpt lat="53.5480327" lon="-3.0955481"/><trkpt lat="53.5479921" lon="-3.0954839"/><trkpt lat="53.5479171" lon="-3.0953727"/></trkseg></trk><trk><name>way/199106520</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/199106520"/><trkseg><trkpt lat="53.5494249" lon="-3.0916938"/><trkpt lat="53.549446" lon="-3.0914289"/><trkpt lat="53.549446" lon="-3.0913775"/><trkpt lat="53.5494352" lon="-3.0913215"/><trkpt lat="53.5494181" lon="-3.0912731"/><trkpt lat="53.5493938" lon="-3.0912444"/><trkpt lat="53.5493615" lon="-3.0912293"/><trkpt lat="53.5493229" lon="-3.0912368"/><trkpt lat="53.5492887" lon="-3.0912505"/><trkpt lat="53.5491971" lon="-3.0913155"/><trkpt lat="53.5491674" lon="-3.0913609"/><trkpt lat="53.549153" lon="-3.0914017"/><trkpt lat="53.5491431" lon="-3.0914546"/><trkpt lat="53.5491306" lon="-3.0915907"/><trkpt lat="53.549129" lon="-3.0916568"/></trkseg></trk><trk><name>way/199106521</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/199106521"/><trkseg><trkpt lat="53.5493012" lon="-3.0925857"/><trkpt lat="53.54933" lon="-3.0925269"/><trkpt lat="53.5493615" lon="-3.0924619"/><trkpt lat="53.549384" lon="-3.0923818"/><trkpt lat="53.5494055" lon="-3.0922729"/><trkpt lat="53.54941" lon="-3.0922018"/><trkpt lat="53.5494028" lon="-3.0921473"/><trkpt lat="53.5493831" lon="-3.0921095"/><trkpt lat="53.5493534" lon="-3.0920732"/><trkpt lat="53.5493157" lon="-3.092049"/><trkpt lat="53.5492689" lon="-3.092046"/><trkpt lat="53.5492213" lon="-3.0920551"/><trkpt lat="53.5491836" lon="-3.0920778"/><trkpt lat="53.5491557" lon="-3.0921125"/><trkpt lat="53.5491324" lon="-3.09217"/><trkpt lat="53.5491216" lon="-3.092235"/><trkpt lat="53.5491198" lon="-3.0923001"/><trkpt lat="53.5491198" lon="-3.0923545"/><trkpt lat="53.549125" lon="-3.0924264"/></trkseg></trk><trk><name>way/199106523</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/199106523"/><trkseg><trkpt lat="53.5480011" lon="-3.0919001"/><trkpt lat="53.5479579" lon="-3.0919084"/><trkpt lat="53.5479058" lon="-3.0919174"/><trkpt lat="53.5478545" lon="-3.0919265"/><trkpt lat="53.5478051" lon="-3.0919159"/><trkpt lat="53.547412" lon="-3.0918562"/><trkpt lat="53.5473086" lon="-3.0918456"/><trkpt lat="53.5471918" lon="-3.091838"/><trkpt lat="53.5471559" lon="-3.0918426"/><trkpt lat="53.5471235" lon="-3.0918592"/><trkpt lat="53.5470975" lon="-3.0918834"/><trkpt lat="53.5470759" lon="-3.0919242"/><trkpt lat="53.5470058" lon="-3.0921829"/><trkpt lat="53.5470013" lon="-3.0922449"/><trkpt lat="53.5470076" lon="-3.0922963"/><trkpt lat="53.5470202" lon="-3.0923432"/><trkpt lat="53.5470444" lon="-3.092378"/><trkpt lat="53.5470741" lon="-3.0924022"/><trkpt lat="53.547101" lon="-3.0924143"/><trkpt lat="53.5472925" lon="-3.0924854"/><trkpt lat="53.5473149" lon="-3.0925171"/><trkpt lat="53.5473364" lon="-3.0925633"/><trkpt lat="53.5473356" lon="-3.0926396"/><trkpt lat="53.5472745" lon="-3.0940159"/></trkseg></trk><trk><name>way/199106524</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/199106524"/><trkseg><trkpt lat="53.5478258" lon="-3.0923742"/><trkpt lat="53.5478698" lon="-3.0924135"/><trkpt lat="53.5479237" lon="-3.0924422"/><trkpt lat="53.5479929" lon="-3.0924619"/><trkpt lat="53.5480828" lon="-3.092474"/><trkpt lat="53.5481349" lon="-3.0924725"/><trkpt lat="53.5481789" lon="-3.092468"/><trkpt lat="53.5482508" lon="-3.0924649"/><trkpt lat="53.5483146" lon="-3.0924483"/><trkpt lat="53.5483838" lon="-3.092415"/><trkpt lat="53.5484422" lon="-3.0923697"/><trkpt lat="53.5484665" lon="-3.0923409"/><trkpt lat="53.5484719" lon="-3.0923137"/><trkpt lat="53.548471" lon="-3.0922653"/><trkpt lat="53.5484611" lon="-3.0922154"/><trkpt lat="53.548444" lon="-3.0921745"/><trkpt lat="53.5484198" lon="-3.0921549"/><trkpt lat="53.5483892" lon="-3.0921488"/><trkpt lat="53.5483596" lon="-3.0921579"/><trkpt lat="53.5483272" lon="-3.0921882"/><trkpt lat="53.5482904" lon="-3.0922411"/><trkpt lat="53.5482724" lon="-3.092291"/><trkpt lat="53.5482526" lon="-3.0923394"/><trkpt lat="53.5482158" lon="-3.0924029"/><trkpt lat="53.5481789" lon="-3.092468"/></trkseg></trk><trk><name>way/199106525</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/199106525"/><trkseg><trkpt lat="53.5487713" lon="-3.0929357"/><trkpt lat="53.548727" lon="-3.0929242"/><trkpt lat="53.5486471" lon="-3.0929035"/><trkpt lat="53.5485986" lon="-3.092896"/><trkpt lat="53.5484575" lon="-3.092893"/><trkpt lat="53.5484153" lon="-3.0928899"/><trkpt lat="53.5482949" lon="-3.0928657"/><trkpt lat="53.548187" lon="-3.0928325"/><trkpt lat="53.547877" lon="-3.0926873"/><trkpt lat="53.5478339" lon="-3.0926616"/><trkpt lat="53.5477964" lon="-3.092622"/><trkpt lat="53.5477836" lon="-3.0925799"/><trkpt lat="53.5477871" lon="-3.0925209"/><trkpt lat="53.5477948" lon="-3.0924842"/><trkpt lat="53.5478024" lon="-3.0924483"/><trkpt lat="53.5478258" lon="-3.0923742"/><trkpt lat="53.5479148" lon="-3.0921004"/><trkpt lat="53.5479687" lon="-3.0919643"/><trkpt lat="53.5480011" lon="-3.0919001"/><trkpt lat="53.5480271" lon="-3.0918615"/><trkpt lat="53.5481232" lon="-3.0917284"/><trkpt lat="53.5481807" lon="-3.0916649"/><trkpt lat="53.548232" lon="-3.0916286"/><trkpt lat="53.5482895" lon="-3.0916059"/><trkpt lat="53.5483668" lon="-3.0915953"/><trkpt lat="53.5487828" lon="-3.0916028"/><trkpt lat="53.5488978" lon="-3.0916165"/><trkpt lat="53.5490452" lon="-3.0916301"/><trkpt lat="53.5490774" lon="-3.0916873"/></trkseg></trk><trk><name>way/199106526</name><desc>access=private
+highway=living_street</desc><link href="http://osm.org/browse/way/199106526"/><trkseg><trkpt lat="53.5485487" lon="-3.0946818"/><trkpt lat="53.5485546" lon="-3.0946081"/><trkpt lat="53.5487001" lon="-3.0942466"/></trkseg></trk><trk><name>way/199106527</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/199106527"/><trkseg><trkpt lat="53.5481753" lon="-3.0932635"/><trkpt lat="53.54817" lon="-3.0934193"/><trkpt lat="53.5481574" lon="-3.0935599"/><trkpt lat="53.5479956" lon="-3.0944659"/></trkseg></trk><trk><name>way/199106529</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/199106529"/><trkseg><trkpt lat="53.5479148" lon="-3.0921004"/><trkpt lat="53.547904" lon="-3.0920399"/><trkpt lat="53.5478896" lon="-3.09199"/><trkpt lat="53.5478545" lon="-3.0919265"/></trkseg></trk><trk><name>Bradford Avenue</name><desc>highway=living_street
+lit=yes
+maxspeed=10 mph
+name=Bradford Avenue
+smoothness=good
+source=Bing
+source:name=OS_OpenData_Locator
+surface=paving_stones</desc><link href="http://osm.org/browse/way/224155768"/><trkseg><trkpt lat="53.6305598" lon="-2.6390761"/><trkpt lat="53.6304304" lon="-2.6387332"/><trkpt lat="53.630343" lon="-2.6386715"/><trkpt lat="53.6302793" lon="-2.6385106"/><trkpt lat="53.6303048" lon="-2.6383094"/><trkpt lat="53.6302203" lon="-2.638065"/><trkpt lat="53.6301964" lon="-2.6380252"/><trkpt lat="53.6301814" lon="-2.6379858"/><trkpt lat="53.6300678" lon="-2.6374082"/><trkpt lat="53.6300506" lon="-2.6372538"/><trkpt lat="53.6300279" lon="-2.6371508"/></trkseg></trk><trk><name>way/272486554</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/272486554"/><trkseg><trkpt lat="53.5477964" lon="-3.0952593"/><trkpt lat="53.5478089" lon="-3.0951554"/><trkpt lat="53.547822" lon="-3.0950892"/><trkpt lat="53.5478515" lon="-3.0949789"/><trkpt lat="53.5478712" lon="-3.0949238"/><trkpt lat="53.5478875" lon="-3.0948521"/><trkpt lat="53.5479138" lon="-3.0947362"/><trkpt lat="53.54794" lon="-3.0946259"/><trkpt lat="53.5479596" lon="-3.0945212"/></trkseg></trk><trk><name>way/272486555</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/272486555"/><trkseg><trkpt lat="53.5488447" lon="-3.0942081"/><trkpt lat="53.5487451" lon="-3.094245"/><trkpt lat="53.5487001" lon="-3.0942466"/><trkpt lat="53.5486846" lon="-3.0942172"/><trkpt lat="53.5486564" lon="-3.0941839"/></trkseg></trk><trk><name>Sampson Close</name><desc>highway=living_street
+lit=yes
+maxspeed=10 mph
+name=Sampson Close
+smoothness=good
+surface=paving_stones</desc><link href="http://osm.org/browse/way/313543925"/><trkseg><trkpt lat="53.6301964" lon="-2.6380252"/><trkpt lat="53.6298092" lon="-2.6384213"/><trkpt lat="53.6296947" lon="-2.6382604"/><trkpt lat="53.6295504" lon="-2.6378507"/><trkpt lat="53.6295312" lon="-2.6377965"/><trkpt lat="53.6295066" lon="-2.6377272"/></trkseg></trk><trk><name>Sampson Close</name><desc>highway=living_street
+lit=yes
+maxspeed=10 mph
+name=Sampson Close
+smoothness=good
+surface=paving_stones</desc><link href="http://osm.org/browse/way/313543926"/><trkseg><trkpt lat="53.6298092" lon="-2.6384213"/><trkpt lat="53.6299257" lon="-2.6387417"/><trkpt lat="53.6299238" lon="-2.6388337"/><trkpt lat="53.6299397" lon="-2.638953"/><trkpt lat="53.6299716" lon="-2.6390509"/><trkpt lat="53.6300646" lon="-2.6391569"/><trkpt lat="53.6301299" lon="-2.6392333"/><trkpt lat="53.6301609" lon="-2.6393205"/><trkpt lat="53.6302253" lon="-2.6393996"/><trkpt lat="53.6302849" lon="-2.639299"/><trkpt lat="53.630419" lon="-2.639421"/></trkseg></trk><trk><name>Chiltern Mews</name><desc>highway=living_street
+lit=yes
+mapillary=Q2vOyXw6k3sA_-CpzVLG-g
+maxspeed=10 mph
+name=Chiltern Mews
+smoothness=good
+surface=paving_stones</desc><link href="http://osm.org/browse/way/313543927"/><trkseg><trkpt lat="53.6306088" lon="-2.6377763"/><trkpt lat="53.6308768" lon="-2.637569"/><trkpt lat="53.630918" lon="-2.6375644"/></trkseg></trk><trk><name>Chiltern Mews</name><desc>highway=living_street
+lit=yes
+maxspeed=10 mph
+name=Chiltern Mews
+smoothness=good
+surface=paving_stones</desc><link href="http://osm.org/browse/way/313543928"/><trkseg><trkpt lat="53.6308376" lon="-2.6380585"/><trkpt lat="53.630707" lon="-2.6380988"/><trkpt lat="53.6306088" lon="-2.6377763"/><trkpt lat="53.6305945" lon="-2.6377307"/><trkpt lat="53.6304908" lon="-2.6373744"/><trkpt lat="53.6303981" lon="-2.6370534"/><trkpt lat="53.6302574" lon="-2.6371117"/></trkseg></trk><trk><name>Chiltern Mews</name><desc>highway=living_street
+lit=yes
+maxspeed=10 mph
+name=Chiltern Mews
+smoothness=good
+surface=paving_stones</desc><link href="http://osm.org/browse/way/313543929"/><trkseg><trkpt lat="53.6304908" lon="-2.6373744"/><trkpt lat="53.6306386" lon="-2.6372645"/></trkseg></trk><trk><name>Thurstan Place</name><desc>highway=living_street
+name=Thurstan Place</desc><link href="http://osm.org/browse/way/313543940"/><trkseg><trkpt lat="53.638385" lon="-2.624327"/><trkpt lat="53.6383758" lon="-2.6251229"/><trkpt lat="53.6384183" lon="-2.6253354"/><trkpt lat="53.6385743" lon="-2.6252798"/></trkseg></trk><trk><name>Hancock Close</name><desc>highway=living_street
+name=Hancock Close
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/346960741"/><trkseg><trkpt lat="53.5225398" lon="-2.5459566"/><trkpt lat="53.5226464" lon="-2.5464564"/></trkseg></trk><trk><name>Hancock Close</name><desc>highway=living_street
+name=Hancock Close
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/346960742"/><trkseg><trkpt lat="53.5221821" lon="-2.5465704"/><trkpt lat="53.5220796" lon="-2.5461187"/></trkseg></trk><trk><name>Hancock Close</name><desc>highway=living_street
+name=Hancock Close
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/346960743"/><trkseg><trkpt lat="53.5223155" lon="-2.5464653"/><trkpt lat="53.5224194" lon="-2.5468903"/></trkseg></trk><trk><name>Hancock Close</name><desc>highway=living_street
+name=Hancock Close
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/346960744"/><trkseg><trkpt lat="53.5221821" lon="-2.5465704"/><trkpt lat="53.5220823" lon="-2.5466838"/><trkpt lat="53.5220653" lon="-2.5468065"/><trkpt lat="53.5221136" lon="-2.5471267"/></trkseg></trk><trk><name>way/392532043</name><desc>access=private
+highway=living_street</desc><link href="http://osm.org/browse/way/392532043"/><trkseg><trkpt lat="53.5949267" lon="-2.5608391"/><trkpt lat="53.5950201" lon="-2.5611931"/><trkpt lat="53.5950259" lon="-2.5612148"/><trkpt lat="53.595114" lon="-2.5613592"/></trkseg></trk><trk><name>Avonhead Close</name><desc>highway=living_street
+name=Avonhead Close</desc><link href="http://osm.org/browse/way/392532046"/><trkseg><trkpt lat="53.5941324" lon="-2.5601721"/><trkpt lat="53.5939538" lon="-2.5598571"/><trkpt lat="53.5938771" lon="-2.5597934"/></trkseg></trk><trk><name>way/392532047</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/392532047"/><trkseg><trkpt lat="53.5941061" lon="-2.5586202"/><trkpt lat="53.5941405" lon="-2.5585021"/><trkpt lat="53.5941401" lon="-2.5584713"/><trkpt lat="53.5941105" lon="-2.5583932"/></trkseg></trk><trk><name>way/392532049</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/392532049"/><trkseg><trkpt lat="53.5946123" lon="-2.558422"/><trkpt lat="53.5945015" lon="-2.5582456"/><trkpt lat="53.5944988" lon="-2.5581939"/><trkpt lat="53.5945103" lon="-2.5581576"/></trkseg></trk><trk><name>Radway Grove</name><desc>highway=living_street
+name=Radway Grove</desc><link href="http://osm.org/browse/way/426558216"/><trkseg><trkpt lat="53.6801904" lon="-2.6513725"/><trkpt lat="53.6803046" lon="-2.6513288"/><trkpt lat="53.6803656" lon="-2.6512713"/><trkpt lat="53.680407" lon="-2.6512102"/><trkpt lat="53.6804213" lon="-2.6511218"/></trkseg></trk><trk><name>way/426558217</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/426558217"/><trkseg><trkpt lat="53.6802078" lon="-2.651542"/><trkpt lat="53.6801018" lon="-2.6516165"/><trkpt lat="53.6799794" lon="-2.6517492"/><trkpt lat="53.6798947" lon="-2.6518728"/></trkseg></trk><trk><name>Theale Place</name><desc>highway=living_street
+name=Theale Place</desc><link href="http://osm.org/browse/way/426558219"/><trkseg><trkpt lat="53.6807054" lon="-2.6501793"/><trkpt lat="53.6806293" lon="-2.6496289"/></trkseg></trk><trk><name>Townsend Drive</name><desc>highway=living_street
+lanes=1
+lit=yes
+maxspeed=20 mph
+name=Townsend Drive
+smoothness=excellent
+surface=asphalt</desc><link href="http://osm.org/browse/way/426561267"/><trkseg><trkpt lat="53.676547" lon="-2.6620248"/><trkpt lat="53.6765953" lon="-2.6619566"/><trkpt lat="53.6766155" lon="-2.6618886"/><trkpt lat="53.6766681" lon="-2.6610895"/></trkseg></trk><trk><name>way/426561268</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/426561268"/><trkseg><trkpt lat="53.6761527" lon="-2.6629983"/><trkpt lat="53.6761627" lon="-2.6628354"/><trkpt lat="53.6761275" lon="-2.6624044"/></trkseg></trk><trk><name>way/426561270</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/426561270"/><trkseg><trkpt lat="53.6746368" lon="-2.6669246"/><trkpt lat="53.6747903" lon="-2.66668"/><trkpt lat="53.6748191" lon="-2.6666132"/></trkseg></trk><trk><name>Hampden Close</name><desc>highway=living_street
+name=Hampden Close</desc><link href="http://osm.org/browse/way/426561271"/><trkseg><trkpt lat="53.6747008" lon="-2.6678316"/><trkpt lat="53.6746428" lon="-2.6679276"/><trkpt lat="53.6743948" lon="-2.6680154"/><trkpt lat="53.6743868" lon="-2.6679387"/></trkseg></trk><trk><name>Magill Close</name><desc>highway=living_street
+name=Magill Close</desc><link href="http://osm.org/browse/way/426562039"/><trkseg><trkpt lat="53.6825276" lon="-2.6339826"/><trkpt lat="53.6826318" lon="-2.6340808"/><trkpt lat="53.682789" lon="-2.6341617"/><trkpt lat="53.6828842" lon="-2.6342333"/><trkpt lat="53.6829457" lon="-2.6343212"/></trkseg></trk><trk><name>Magill Close</name><desc>highway=living_street
+name=Magill Close</desc><link href="http://osm.org/browse/way/426562040"/><trkseg><trkpt lat="53.6825495" lon="-2.6337745"/><trkpt lat="53.6826136" lon="-2.6337884"/><trkpt lat="53.6827018" lon="-2.6338562"/><trkpt lat="53.6828195" lon="-2.6339893"/><trkpt lat="53.6830059" lon="-2.6341243"/></trkseg></trk><trk><name>way/427773833</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/427773833"/><trkseg><trkpt lat="53.7004804" lon="-2.6715367"/><trkpt lat="53.7005236" lon="-2.6713056"/><trkpt lat="53.7005297" lon="-2.6711831"/><trkpt lat="53.70054" lon="-2.6710403"/><trkpt lat="53.700554" lon="-2.67091"/><trkpt lat="53.7005696" lon="-2.6707817"/><trkpt lat="53.700591" lon="-2.6707294"/><trkpt lat="53.7006029" lon="-2.6707053"/></trkseg></trk><trk><name>way/427773834</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/427773834"/><trkseg><trkpt lat="53.6996196" lon="-2.6707161"/><trkpt lat="53.6994757" lon="-2.6705938"/><trkpt lat="53.6993815" lon="-2.6705132"/><trkpt lat="53.6992603" lon="-2.670453"/></trkseg></trk><trk><name>Whiteleaf Place</name><desc>highway=living_street
+name=Whiteleaf Place</desc><link href="http://osm.org/browse/way/453842374"/><trkseg><trkpt lat="53.6981397" lon="-2.6684797"/><trkpt lat="53.6981071" lon="-2.6683608"/><trkpt lat="53.6981103" lon="-2.6681431"/><trkpt lat="53.6981988" lon="-2.6679119"/><trkpt lat="53.6982076" lon="-2.6676808"/><trkpt lat="53.698231" lon="-2.667481"/><trkpt lat="53.6982405" lon="-2.667371"/><trkpt lat="53.6982111" lon="-2.6672275"/></trkseg></trk><trk><name>Wellfield Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Wellfield Street
+oneway=yes</desc><link href="http://osm.org/browse/way/458134626"/><trkseg><trkpt lat="53.3911228" lon="-2.6140416"/><trkpt lat="53.3908672" lon="-2.6140315"/><trkpt lat="53.3906402" lon="-2.6140171"/><trkpt lat="53.3903662" lon="-2.6140017"/><trkpt lat="53.3900569" lon="-2.6139861"/><trkpt lat="53.3898439" lon="-2.6139858"/><trkpt lat="53.3895409" lon="-2.6139647"/></trkseg></trk><trk><name>Hampton Grove</name><desc>access=private
+highway=living_street
+lit=yes
+name=Hampton Grove
+surface=asphalt</desc><link href="http://osm.org/browse/way/501187125"/><trkseg><trkpt lat="53.7000421" lon="-2.6726259"/><trkpt lat="53.7000424" lon="-2.6723397"/><trkpt lat="53.7000851" lon="-2.6720014"/><trkpt lat="53.7000936" lon="-2.6716054"/></trkseg></trk><trk><name>Tay Mews</name><desc>highway=living_street
+name=Tay Mews</desc><link href="http://osm.org/browse/way/502766473"/><trkseg><trkpt lat="53.7019011" lon="-2.6668478"/><trkpt lat="53.70152" lon="-2.6665849"/></trkseg></trk><trk><name>Hollington Close</name><desc>highway=living_street
+name=Hollington Close</desc><link href="http://osm.org/browse/way/502766475"/><trkseg><trkpt lat="53.7018207" lon="-2.6674463"/><trkpt lat="53.702187" lon="-2.6676967"/></trkseg></trk><trk><name>Old Laurel Gardens</name><desc>highway=living_street
+name=Old Laurel Gardens
+noexit=yes
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/522155064"/><trkseg><trkpt lat="53.5301428" lon="-2.5666665"/><trkpt lat="53.5300511" lon="-2.5663092"/></trkseg></trk><trk><name>Old Laurel Gardens</name><desc>highway=living_street
+name=Old Laurel Gardens
+noexit=yes
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/522155066"/><trkseg><trkpt lat="53.5303105" lon="-2.5667176"/><trkpt lat="53.5303712" lon="-2.5666954"/></trkseg></trk><trk><name>way/544531486</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/544531486"/><trkseg><trkpt lat="53.5476045" lon="-3.0950614"/><trkpt lat="53.5475384" lon="-3.0950155"/><trkpt lat="53.5474837" lon="-3.0949834"/><trkpt lat="53.547452" lon="-3.0949363"/><trkpt lat="53.5474405" lon="-3.0948743"/><trkpt lat="53.5474494" lon="-3.0948059"/><trkpt lat="53.5475079" lon="-3.0945813"/><trkpt lat="53.5475575" lon="-3.094346"/><trkpt lat="53.5475791" lon="-3.0942412"/><trkpt lat="53.5475981" lon="-3.0941171"/><trkpt lat="53.5476148" lon="-3.0939498"/><trkpt lat="53.5476286" lon="-3.0938113"/><trkpt lat="53.5476528" lon="-3.0936423"/><trkpt lat="53.5476845" lon="-3.093422"/><trkpt lat="53.5477214" lon="-3.0932316"/><trkpt lat="53.5477468" lon="-3.0930242"/><trkpt lat="53.5477964" lon="-3.092622"/></trkseg></trk><trk><name>way/544531487</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/544531487"/><trkseg><trkpt lat="53.5484153" lon="-3.0928899"/><trkpt lat="53.5483787" lon="-3.092977"/><trkpt lat="53.5483513" lon="-3.0930846"/><trkpt lat="53.5482919" lon="-3.0931923"/><trkpt lat="53.5481753" lon="-3.0932635"/><trkpt lat="53.5481136" lon="-3.0932654"/><trkpt lat="53.5480405" lon="-3.0933"/><trkpt lat="53.5480085" lon="-3.0933731"/><trkpt lat="53.5479559" lon="-3.093377"/><trkpt lat="53.5478874" lon="-3.0933423"/><trkpt lat="53.5478531" lon="-3.093377"/><trkpt lat="53.5478257" lon="-3.0935231"/><trkpt lat="53.5477868" lon="-3.0937539"/><trkpt lat="53.547764" lon="-3.0938885"/><trkpt lat="53.5477457" lon="-3.0939693"/><trkpt lat="53.5476977" lon="-3.0939808"/><trkpt lat="53.5476148" lon="-3.0939498"/></trkseg></trk><trk><name>Essex Place</name><desc>highway=living_street
+name=Essex Place</desc><link href="http://osm.org/browse/way/553275735"/><trkseg><trkpt lat="53.5241453" lon="-2.4696501"/><trkpt lat="53.5242771" lon="-2.4697216"/><trkpt lat="53.5245673" lon="-2.4699974"/></trkseg></trk><trk><name>Westmorland Road</name><desc>highway=living_street
+name=Westmorland Road</desc><link href="http://osm.org/browse/way/553275739"/><trkseg><trkpt lat="53.520874" lon="-2.4689977"/><trkpt lat="53.5208697" lon="-2.468911"/><trkpt lat="53.5208567" lon="-2.4688257"/><trkpt lat="53.5208359" lon="-2.468763"/><trkpt lat="53.5206713" lon="-2.4685546"/><trkpt lat="53.5206288" lon="-2.4684429"/></trkseg></trk><trk><name>Waters Edge</name><desc>highway=living_street
+maxspeed=20 mph
+name=Waters Edge</desc><link href="http://osm.org/browse/way/554809626"/><trkseg><trkpt lat="53.3724072" lon="-2.5895555"/><trkpt lat="53.3721802" lon="-2.5906646"/><trkpt lat="53.3721217" lon="-2.5906366"/><trkpt lat="53.3720743" lon="-2.5909191"/></trkseg></trk><trk><name>Summer Hill Close</name><desc>highway=living_street
+name=Summer Hill Close</desc><link href="http://osm.org/browse/way/569582164"/><trkseg><trkpt lat="53.6112965" lon="-2.440688"/><trkpt lat="53.6112955" lon="-2.4405369"/><trkpt lat="53.611269" lon="-2.440386"/><trkpt lat="53.6112644" lon="-2.4401718"/><trkpt lat="53.6112626" lon="-2.4400979"/><trkpt lat="53.6112544" lon="-2.440064"/><trkpt lat="53.6112407" lon="-2.4400332"/><trkpt lat="53.6112005" lon="-2.4399854"/><trkpt lat="53.6111804" lon="-2.4399577"/><trkpt lat="53.6111347" lon="-2.4398114"/><trkpt lat="53.6111127" lon="-2.4397667"/><trkpt lat="53.6110853" lon="-2.4397374"/><trkpt lat="53.6109839" lon="-2.4397097"/></trkseg></trk><trk><name>The Beeches</name><desc>highway=living_street
+name=The Beeches
+source=OS_OpenData_StreetView</desc><link href="http://osm.org/browse/way/569582174"/><trkseg><trkpt lat="53.609129" lon="-2.4435285"/><trkpt lat="53.609305" lon="-2.4435815"/></trkseg></trk><trk><name>Shoreswood</name><desc>highway=living_street
+name=Shoreswood</desc><link href="http://osm.org/browse/way/569582188"/><trkseg><trkpt lat="53.6083039" lon="-2.4416257"/><trkpt lat="53.6084601" lon="-2.4418472"/></trkseg></trk><trk><name>Farnborough Road</name><desc>highway=living_street
+name=Farnborough Road</desc><link href="http://osm.org/browse/way/570457624"/><trkseg><trkpt lat="53.6121707" lon="-2.4361781"/><trkpt lat="53.6122284" lon="-2.4361805"/><trkpt lat="53.6122937" lon="-2.4362053"/></trkseg></trk><trk><name>Masbury Close</name><desc>highway=living_street
+name=Masbury Close</desc><link href="http://osm.org/browse/way/574137856"/><trkseg><trkpt lat="53.6136859" lon="-2.4359545"/><trkpt lat="53.6137109" lon="-2.4358997"/></trkseg></trk><trk><name>Ravens Wood</name><desc>highway=living_street
+name=Ravens Wood</desc><link href="http://osm.org/browse/way/579764109"/><trkseg><trkpt lat="53.5797083" lon="-2.4805726"/><trkpt lat="53.5796529" lon="-2.4806178"/></trkseg></trk><trk><name>Ravens Holme</name><desc>highway=living_street
+name=Ravens Holme
+source=OS_OpenData_StreetView
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/579764115"/><trkseg><trkpt lat="53.5792988" lon="-2.4825203"/><trkpt lat="53.5792543" lon="-2.4825322"/><trkpt lat="53.5791312" lon="-2.4825128"/><trkpt lat="53.5790787" lon="-2.4824827"/><trkpt lat="53.5790337" lon="-2.482422"/><trkpt lat="53.5790044" lon="-2.4823438"/><trkpt lat="53.5789872" lon="-2.4822417"/><trkpt lat="53.5789776" lon="-2.4821394"/><trkpt lat="53.5789787" lon="-2.4820385"/><trkpt lat="53.5789888" lon="-2.4819429"/><trkpt lat="53.57901" lon="-2.48183"/></trkseg></trk><trk><name>Regent Drive</name><desc>highway=living_street
+name=Regent Drive</desc><link href="http://osm.org/browse/way/580415702"/><trkseg><trkpt lat="53.578118" lon="-2.5025905"/><trkpt lat="53.5780714" lon="-2.5029109"/><trkpt lat="53.5780664" lon="-2.5032144"/></trkseg></trk><trk><name>Regent Drive</name><desc>highway=living_street
+name=Regent Drive</desc><link href="http://osm.org/browse/way/580415703"/><trkseg><trkpt lat="53.5779918" lon="-2.5032301"/><trkpt lat="53.5780664" lon="-2.5032144"/><trkpt lat="53.5781165" lon="-2.5031908"/><trkpt lat="53.578148" lon="-2.5031857"/><trkpt lat="53.5782999" lon="-2.5032053"/></trkseg></trk><trk><name>way/619189990</name><desc>access=private
+highway=living_street
+lanes=1
+maxspeed=10 mph
+oneway=no</desc><link href="http://osm.org/browse/way/619189990"/><trkseg><trkpt lat="53.5491739" lon="-3.0937214"/><trkpt lat="53.5491561" lon="-3.0939182"/><trkpt lat="53.5490621" lon="-3.0945299"/><trkpt lat="53.5490469" lon="-3.0946519"/><trkpt lat="53.5490463" lon="-3.0947417"/><trkpt lat="53.5490456" lon="-3.0948486"/><trkpt lat="53.5490354" lon="-3.0949385"/><trkpt lat="53.5489033" lon="-3.0957427"/></trkseg></trk><trk><name>Pilgrim Drive</name><desc>highway=living_street
+name=Pilgrim Drive
+source=Bing
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/633869800"/><trkseg><trkpt lat="53.6300279" lon="-2.6371508"/><trkpt lat="53.6299968" lon="-2.636987"/><trkpt lat="53.629939" lon="-2.6365881"/><trkpt lat="53.629939" lon="-2.6362303"/><trkpt lat="53.629804" lon="-2.6361327"/><trkpt lat="53.6296882" lon="-2.6361327"/><trkpt lat="53.6295542" lon="-2.6361762"/></trkseg></trk><trk><name>Pilgrim Drive</name><desc>highway=living_street
+name=Pilgrim Drive</desc><link href="http://osm.org/browse/way/633869801"/><trkseg><trkpt lat="53.6295542" lon="-2.6361762"/><trkpt lat="53.6293338" lon="-2.6360342"/><trkpt lat="53.6291997" lon="-2.6359749"/><trkpt lat="53.6291914" lon="-2.6358765"/><trkpt lat="53.6291938" lon="-2.6357331"/><trkpt lat="53.62903" lon="-2.6353415"/></trkseg></trk><trk><name>Pilgrim Drive</name><desc>highway=living_street
+name=Pilgrim Drive</desc><link href="http://osm.org/browse/way/633869802"/><trkseg><trkpt lat="53.629939" lon="-2.6362303"/><trkpt lat="53.6300217" lon="-2.6362279"/><trkpt lat="53.6301463" lon="-2.6360596"/><trkpt lat="53.6302668" lon="-2.6358481"/><trkpt lat="53.6303273" lon="-2.6357578"/><trkpt lat="53.6303826" lon="-2.6356855"/><trkpt lat="53.6304452" lon="-2.6356124"/><trkpt lat="53.6307475" lon="-2.6356104"/><trkpt lat="53.6307965" lon="-2.6357152"/><trkpt lat="53.6309113" lon="-2.6358255"/><trkpt lat="53.6309846" lon="-2.6360582"/></trkseg></trk><trk><name>way/657021129</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/657021129"/><trkseg><trkpt lat="53.5849774" lon="-2.6352811"/><trkpt lat="53.5853628" lon="-2.635117"/></trkseg></trk><trk><name>way/668826853</name><desc>access=private
+highway=living_street</desc><link href="http://osm.org/browse/way/668826853"/><trkseg><trkpt lat="53.5949807" lon="-2.5612616"/><trkpt lat="53.5949899" lon="-2.5612307"/><trkpt lat="53.5950201" lon="-2.5611931"/></trkseg></trk><trk><name>Rotherhead Close</name><desc>highway=living_street
+name=Rotherhead Close</desc><link href="http://osm.org/browse/way/668826878"/><trkseg><trkpt lat="53.5941854" lon="-2.5610177"/><trkpt lat="53.5942079" lon="-2.5609786"/><trkpt lat="53.594229" lon="-2.5609418"/></trkseg></trk><trk><name>Bold Street</name><desc>highway=living_street
+name=Bold Street
+oneway=yes
+source=OS_OpenData_StreetView</desc><link href="http://osm.org/browse/way/670296680"/><trkseg><trkpt lat="53.4964859" lon="-2.5156877"/><trkpt lat="53.4961891" lon="-2.5158031"/></trkseg></trk><trk><name>Silk Street</name><desc>highway=living_street
+name=Silk Street
+oneway=yes
+source=OS_OpenData_StreetView</desc><link href="http://osm.org/browse/way/670296681"/><trkseg><trkpt lat="53.4962525" lon="-2.5165159"/><trkpt lat="53.4965434" lon="-2.5163945"/></trkseg></trk><trk><name>Marchwood Close</name><desc>highway=living_street
+name=Marchwood Close</desc><link href="http://osm.org/browse/way/670869767"/><trkseg><trkpt lat="53.5775334" lon="-2.5609704"/><trkpt lat="53.5774673" lon="-2.560833"/></trkseg></trk><trk><name>way/674417763</name><desc>highway=living_street
+maxspeed=10 mph</desc><link href="http://osm.org/browse/way/674417763"/><trkseg><trkpt lat="53.4038492" lon="-2.6670558"/><trkpt lat="53.4038663" lon="-2.6670974"/><trkpt lat="53.4038962" lon="-2.6671426"/><trkpt lat="53.4039314" lon="-2.667177"/><trkpt lat="53.4039866" lon="-2.667202"/><trkpt lat="53.404043" lon="-2.6672094"/></trkseg></trk><trk><name>way/674417765</name><desc>highway=living_street
+maxspeed=10 mph</desc><link href="http://osm.org/browse/way/674417765"/><trkseg><trkpt lat="53.4038492" lon="-2.6670558"/><trkpt lat="53.4038402" lon="-2.6669703"/><trkpt lat="53.4038398" lon="-2.6668794"/></trkseg></trk><trk><name>Sandhill Close</name><desc>highway=living_street
+name=Sandhill Close
+source=OS_OpenData_StreetView</desc><link href="http://osm.org/browse/way/682772681"/><trkseg><trkpt lat="53.5641956" lon="-2.4305855"/><trkpt lat="53.5640136" lon="-2.4305149"/><trkpt lat="53.5639896" lon="-2.4304986"/><trkpt lat="53.5639694" lon="-2.4304686"/><trkpt lat="53.5639581" lon="-2.4304351"/><trkpt lat="53.5639522" lon="-2.4303948"/><trkpt lat="53.5639504" lon="-2.4303485"/><trkpt lat="53.564014" lon="-2.4298472"/></trkseg></trk><trk><name>Lakeland Gardens</name><desc>highway=living_street
+lit=yes
+name=Lakeland Gardens</desc><link href="http://osm.org/browse/way/683908387"/><trkseg><trkpt lat="53.6431702" lon="-2.6468873"/><trkpt lat="53.6432307" lon="-2.6467475"/><trkpt lat="53.6432195" lon="-2.6465195"/><trkpt lat="53.6431941" lon="-2.6463532"/><trkpt lat="53.6431305" lon="-2.646026"/><trkpt lat="53.6431074" lon="-2.6459556"/><trkpt lat="53.6429911" lon="-2.6459033"/></trkseg></trk><trk><name>way/687563193</name><desc>highway=living_street
+lanes=2
+lit=yes
+maxspeed=20 mph
+noname=yes
+smoothness=good
+surface=asphalt</desc><link href="http://osm.org/browse/way/687563193"/><trkseg><trkpt lat="53.6749403" lon="-2.6609475"/><trkpt lat="53.6748706" lon="-2.6603603"/><trkpt lat="53.6752611" lon="-2.6602283"/><trkpt lat="53.6752769" lon="-2.6602511"/><trkpt lat="53.6753961" lon="-2.6602095"/></trkseg></trk><trk><name>way/687704017</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/687704017"/><trkseg><trkpt lat="53.7017623" lon="-2.6677189"/><trkpt lat="53.7014403" lon="-2.6675103"/></trkseg></trk><trk><name>Park Street</name><desc>highway=living_street
+name=Park Street
+postal_code=L8</desc><link href="http://osm.org/browse/way/694592668"/><trkseg><trkpt lat="53.3862049" lon="-2.975408"/><trkpt lat="53.3861597" lon="-2.9757153"/></trkseg></trk><trk><name>Winslow Place</name><desc>highway=living_street
+name=Winslow Place</desc><link href="http://osm.org/browse/way/710999913"/><trkseg><trkpt lat="53.6305967" lon="-2.6366597"/><trkpt lat="53.6304654" lon="-2.6367308"/><trkpt lat="53.6302897" lon="-2.6368234"/></trkseg></trk><trk><name>Winslow Place</name><desc>highway=living_street
+name=Winslow Place</desc><link href="http://osm.org/browse/way/710999914"/><trkseg><trkpt lat="53.6303273" lon="-2.6357578"/><trkpt lat="53.6304384" lon="-2.6359584"/><trkpt lat="53.6304376" lon="-2.6363097"/><trkpt lat="53.6304177" lon="-2.6363889"/><trkpt lat="53.6304241" lon="-2.6365109"/><trkpt lat="53.6304654" lon="-2.6367308"/></trkseg></trk><trk><name>Allerton Close</name><desc>highway=living_street
+mapillary=lisWId2BTQwCOXnR002lfQ
+name=Allerton Close
+source=Bing
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/711305683"/><trkseg><trkpt lat="53.6291612" lon="-2.6367979"/><trkpt lat="53.62916" lon="-2.6367322"/><trkpt lat="53.6291692" lon="-2.636661"/><trkpt lat="53.6291938" lon="-2.6365658"/><trkpt lat="53.6292069" lon="-2.6364009"/><trkpt lat="53.6292069" lon="-2.6362467"/><trkpt lat="53.6291604" lon="-2.6360777"/><trkpt lat="53.6291997" lon="-2.6359749"/></trkseg></trk><trk><name>Maltby Square</name><desc>highway=living_street
+lit=yes
+name=Maltby Square
+service=driveway
+smoothness=good
+surface=paved</desc><link href="http://osm.org/browse/way/731534234"/><trkseg><trkpt lat="53.6786691" lon="-2.6535344"/><trkpt lat="53.6786571" lon="-2.6534605"/><trkpt lat="53.6785167" lon="-2.6529683"/></trkseg></trk><trk><name>Arden Drive</name><desc>highway=living_street
+name=Arden Drive</desc><link href="http://osm.org/browse/way/731551836"/><trkseg><trkpt lat="53.69936" lon="-2.6674984"/><trkpt lat="53.6992611" lon="-2.6682125"/><trkpt lat="53.6992068" lon="-2.6686215"/><trkpt lat="53.6991679" lon="-2.6689135"/></trkseg></trk><trk><name>way/731551837</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/731551837"/><trkseg><trkpt lat="53.6991405" lon="-2.6681621"/><trkpt lat="53.6991531" lon="-2.6680683"/><trkpt lat="53.6991916" lon="-2.6678522"/><trkpt lat="53.6992044" lon="-2.6677469"/><trkpt lat="53.6992155" lon="-2.6675682"/><trkpt lat="53.6992076" lon="-2.6673764"/><trkpt lat="53.6992282" lon="-2.6672303"/></trkseg></trk><trk><name>way/731551838</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/731551838"/><trkseg><trkpt lat="53.6989551" lon="-2.6696286"/><trkpt lat="53.6990365" lon="-2.6689319"/></trkseg></trk><trk><name>way/731551839</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/731551839"/><trkseg><trkpt lat="53.6989971" lon="-2.6702933"/><trkpt lat="53.6990803" lon="-2.6696659"/><trkpt lat="53.6991388" lon="-2.6692069"/></trkseg></trk><trk><name>way/751292762</name><desc>highway=living_street
+lit=yes
+surface=paving_stones</desc><link href="http://osm.org/browse/way/751292762"/><trkseg><trkpt lat="53.6182389" lon="-2.6073244"/><trkpt lat="53.6184055" lon="-2.6065623"/></trkseg></trk><trk><name>Davy Road</name><desc>highway=living_street
+lit=yes
+name=Davy Road
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/758452472"/><trkseg><trkpt lat="53.5065463" lon="-2.5840372"/><trkpt lat="53.5064028" lon="-2.5840748"/><trkpt lat="53.5061548" lon="-2.5839986"/></trkseg></trk><trk><name>way/759393340</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/759393340"/><trkseg><trkpt lat="53.516614" lon="-2.666301"/><trkpt lat="53.5167596" lon="-2.6659542"/><trkpt lat="53.5167102" lon="-2.6658952"/></trkseg></trk><trk><name>Warwick Crescent</name><desc>highway=living_street
+lit=yes
+name=Warwick Crescent
+surface=asphalt</desc><link href="http://osm.org/browse/way/777689252"/><trkseg><trkpt lat="53.6751528" lon="-2.6654069"/><trkpt lat="53.6750427" lon="-2.6650131"/><trkpt lat="53.6750426" lon="-2.6646795"/></trkseg></trk><trk><name>Meadow Close</name><desc>highway=living_street
+name=Meadow Close</desc><link href="http://osm.org/browse/way/783852599"/><trkseg><trkpt lat="53.6143536" lon="-2.6545974"/><trkpt lat="53.6144363" lon="-2.6543361"/><trkpt lat="53.6145272" lon="-2.6542454"/><trkpt lat="53.6145799" lon="-2.654072"/></trkseg></trk><trk><name>Dallington Avenue</name><desc>highway=living_street
+lit=yes
+name=Dallington Avenue
+oneway=no
+surface=asphalt</desc><link href="http://osm.org/browse/way/783949107"/><trkseg><trkpt lat="53.7003471" lon="-2.6700981"/><trkpt lat="53.7003755" lon="-2.670294"/><trkpt lat="53.7003663" lon="-2.6703809"/><trkpt lat="53.7002745" lon="-2.670999"/></trkseg></trk><trk><name>Snape Drive</name><desc>highway=living_street
+name=Snape Drive</desc><link href="http://osm.org/browse/way/794434875"/><trkseg><trkpt lat="53.6832394" lon="-2.63324"/><trkpt lat="53.6831664" lon="-2.633079"/><trkpt lat="53.683106" lon="-2.6330012"/><trkpt lat="53.6830313" lon="-2.6329181"/><trkpt lat="53.6829287" lon="-2.6328334"/></trkseg></trk><trk><name>Berry Avenue</name><desc>highway=living_street
+name=Berry Avenue</desc><link href="http://osm.org/browse/way/794434876"/><trkseg><trkpt lat="53.6826394" lon="-2.6317893"/><trkpt lat="53.6824936" lon="-2.6313383"/><trkpt lat="53.6823012" lon="-2.6309317"/></trkseg></trk><trk><name>Riley Place</name><desc>highway=living_street
+name=Riley Place</desc><link href="http://osm.org/browse/way/794434877"/><trkseg><trkpt lat="53.6827184" lon="-2.6351577"/><trkpt lat="53.6826437" lon="-2.6351792"/><trkpt lat="53.6825691" lon="-2.6351684"/><trkpt lat="53.682496" lon="-2.6351228"/><trkpt lat="53.6824261" lon="-2.6351121"/><trkpt lat="53.6823279" lon="-2.635088"/></trkseg></trk><trk><name>Tanners Close</name><desc>highway=living_street
+name=Tanners Close</desc><link href="http://osm.org/browse/way/794447217"/><trkseg><trkpt lat="53.6774536" lon="-2.6305255"/><trkpt lat="53.6771253" lon="-2.6302794"/><trkpt lat="53.6766894" lon="-2.6299435"/></trkseg></trk><trk><name>Topping Green</name><desc>highway=living_street
+maxspeed=20 mph
+name=Topping Green
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/837236376"/><trkseg><trkpt lat="53.5308685" lon="-2.5476056"/><trkpt lat="53.5307549" lon="-2.5477424"/></trkseg></trk><trk><name>way/837236381</name><desc>highway=living_street
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/837236381"/><trkseg><trkpt lat="53.5317595" lon="-2.5491555"/><trkpt lat="53.5317707" lon="-2.5489073"/></trkseg></trk><trk><name>way/837236382</name><desc>highway=living_street
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/837236382"/><trkseg><trkpt lat="53.5313253" lon="-2.5488138"/><trkpt lat="53.5313851" lon="-2.5488289"/><trkpt lat="53.5317707" lon="-2.5489073"/><trkpt lat="53.5318353" lon="-2.5489194"/></trkseg></trk><trk><name>way/837236383</name><desc>highway=living_street
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/837236383"/><trkseg><trkpt lat="53.5313702" lon="-2.5490702"/><trkpt lat="53.5313851" lon="-2.5488289"/></trkseg></trk><trk><name>way/837236384</name><desc>highway=living_street
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/837236384"/><trkseg><trkpt lat="53.5308428" lon="-2.5487152"/><trkpt lat="53.531012" lon="-2.5487605"/><trkpt lat="53.5310766" lon="-2.5487796"/></trkseg></trk><trk><name>way/837236385</name><desc>highway=living_street
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/837236385"/><trkseg><trkpt lat="53.5309942" lon="-2.5489879"/><trkpt lat="53.531012" lon="-2.5487605"/></trkseg></trk><trk><name>way/837236386</name><desc>highway=living_street
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/837236386"/><trkseg><trkpt lat="53.5305564" lon="-2.5486428"/><trkpt lat="53.530707" lon="-2.548682"/><trkpt lat="53.5308218" lon="-2.5487082"/></trkseg></trk><trk><name>way/837236387</name><desc>highway=living_street
+source=survey
+surface=paving_stones</desc><link href="http://osm.org/browse/way/837236387"/><trkseg><trkpt lat="53.5306819" lon="-2.5489161"/><trkpt lat="53.530707" lon="-2.548682"/></trkseg></trk><trk><name>way/866024406</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/866024406"/><trkseg><trkpt lat="53.6985242" lon="-2.6684715"/><trkpt lat="53.6985398" lon="-2.6685807"/><trkpt lat="53.6985803" lon="-2.6686665"/><trkpt lat="53.6987208" lon="-2.6687256"/></trkseg></trk><trk><name>way/866024407</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/866024407"/><trkseg><trkpt lat="53.6995659" lon="-2.670864"/><trkpt lat="53.699491" lon="-2.6708029"/><trkpt lat="53.6992734" lon="-2.6706406"/></trkseg></trk><trk><name>Charnwood Mews</name><desc>highway=living_street
+name=Charnwood Mews</desc><link href="http://osm.org/browse/way/866024408"/><trkseg><trkpt lat="53.6987542" lon="-2.6708002"/><trkpt lat="53.6987875" lon="-2.670878"/><trkpt lat="53.698809" lon="-2.6709652"/><trkpt lat="53.6987899" lon="-2.6711221"/><trkpt lat="53.6987566" lon="-2.6713219"/></trkseg></trk><trk><name>Leighfield Close</name><desc>highway=living_street
+name=Leighfield Close</desc><link href="http://osm.org/browse/way/866024411"/><trkseg><trkpt lat="53.6979554" lon="-2.6702157"/><trkpt lat="53.697718" lon="-2.6701243"/></trkseg></trk><trk><name>Mercia Grove</name><desc>highway=living_street
+name=Mercia Grove</desc><link href="http://osm.org/browse/way/866024412"/><trkseg><trkpt lat="53.6984482" lon="-2.6665183"/><trkpt lat="53.6982698" lon="-2.6664517"/><trkpt lat="53.6982662" lon="-2.6664906"/><trkpt lat="53.6982203" lon="-2.6669418"/></trkseg></trk><trk><name>Arden Drive</name><desc>highway=living_street
+name=Arden Drive</desc><link href="http://osm.org/browse/way/866024413"/><trkseg><trkpt lat="53.699749" lon="-2.6683447"/><trkpt lat="53.6998252" lon="-2.6678056"/></trkseg></trk><trk><name>way/866024415</name><desc>highway=living_street
+lit=yes
+surface=asphalt</desc><link href="http://osm.org/browse/way/866024415"/><trkseg><trkpt lat="53.7009725" lon="-2.6710953"/><trkpt lat="53.7009812" lon="-2.671165"/><trkpt lat="53.7009828" lon="-2.6713018"/><trkpt lat="53.7009788" lon="-2.6714292"/><trkpt lat="53.7009392" lon="-2.6715419"/><trkpt lat="53.7008939" lon="-2.6716465"/><trkpt lat="53.7008694" lon="-2.6717122"/><trkpt lat="53.7008828" lon="-2.6717994"/><trkpt lat="53.7009042" lon="-2.6719295"/><trkpt lat="53.7009272" lon="-2.6720689"/><trkpt lat="53.7009217" lon="-2.6721708"/><trkpt lat="53.7008891" lon="-2.6723197"/><trkpt lat="53.7008526" lon="-2.6724203"/><trkpt lat="53.7007939" lon="-2.6725155"/><trkpt lat="53.7007272" lon="-2.6725785"/><trkpt lat="53.7006621" lon="-2.6726349"/><trkpt lat="53.7006073" lon="-2.672651"/><trkpt lat="53.7005628" lon="-2.6726697"/><trkpt lat="53.7005001" lon="-2.6727006"/><trkpt lat="53.7003461" lon="-2.6726791"/><trkpt lat="53.7003294" lon="-2.6726738"/></trkseg></trk><trk><name>Meadow Close</name><desc>highway=living_street
+name=Meadow Close</desc><link href="http://osm.org/browse/way/905469302"/><trkseg><trkpt lat="53.6144268" lon="-2.6546725"/><trkpt lat="53.614344" lon="-2.6549993"/></trkseg></trk><trk><name>Chiltern Mews</name><desc>highway=living_street
+lit=yes
+mapillary=Q2vOyXw6k3sA_-CpzVLG-g
+maxspeed=10 mph
+name=Chiltern Mews
+smoothness=good
+surface=paving_stones</desc><link href="http://osm.org/browse/way/906239063"/><trkseg><trkpt lat="53.6302203" lon="-2.638065"/><trkpt lat="53.6305945" lon="-2.6377307"/></trkseg></trk><trk><name>Allerton Close</name><desc>highway=living_street
+mapillary=lisWId2BTQwCOXnR002lfQ
+name=Allerton Close
+source=Bing
+source:name=OS_OpenData_Locator</desc><link href="http://osm.org/browse/way/906925703"/><trkseg><trkpt lat="53.6295542" lon="-2.6361762"/><trkpt lat="53.6295376" lon="-2.6366641"/><trkpt lat="53.6295258" lon="-2.6367771"/><trkpt lat="53.6294964" lon="-2.6368687"/><trkpt lat="53.6294904" lon="-2.6368985"/><trkpt lat="53.6294674" lon="-2.6368972"/><trkpt lat="53.629224" lon="-2.6368837"/></trkseg></trk><trk><name>way/913887415</name><desc>highway=living_street</desc><link href="http://osm.org/browse/way/913887415"/><trkseg><trkpt lat="53.6990575" lon="-2.6687838"/><trkpt lat="53.6991405" lon="-2.6681621"/></trkseg></trk><trk><name>Charnwood Mews</name><desc>highway=living_street
+name=Charnwood Mews</desc><link href="http://osm.org/browse/way/913887416"/><trkseg><trkpt lat="53.69845" lon="-2.6708334"/><trkpt lat="53.6984281" lon="-2.6707112"/><trkpt lat="53.6984122" lon="-2.6706306"/><trkpt lat="53.6984094" lon="-2.6705753"/><trkpt lat="53.6984365" lon="-2.6703857"/></trkseg></trk><trk><name>Brackley Street</name><desc>highway=living_street
+is_in:suburb=Dukesfield
+maxspeed=20 mph
+name=Brackley Street</desc><link href="http://osm.org/browse/way/917325722"/><trkseg><trkpt lat="53.3432201" lon="-2.7410524"/><trkpt lat="53.3432945" lon="-2.7409572"/><trkpt lat="53.3433655" lon="-2.7408668"/></trkseg></trk><trk><name>Brackley Street</name><desc>highway=living_street
+is_in:suburb=Dukesfield
+maxspeed=20 mph
+name=Brackley Street</desc><link href="http://osm.org/browse/way/917325723"/><trkseg><trkpt lat="53.3434979" lon="-2.7406972"/><trkpt lat="53.3435669" lon="-2.7406089"/></trkseg></trk><trk><name>Little Croft</name><desc>highway=living_street
+name=Little Croft</desc><link href="http://osm.org/browse/way/919562208"/><trkseg><trkpt lat="53.4133473" lon="-2.7988101"/><trkpt lat="53.4133199" lon="-2.7996953"/></trkseg></trk><trk><name>Broadfields</name><desc>highway=living_street
+name=Broadfields
+service=driveway</desc><link href="http://osm.org/browse/way/926823646"/><trkseg><trkpt lat="53.6648648" lon="-2.6419397"/><trkpt lat="53.6649665" lon="-2.6418659"/><trkpt lat="53.6650704" lon="-2.6419011"/><trkpt lat="53.6651226" lon="-2.6419188"/><trkpt lat="53.6652152" lon="-2.6419048"/><trkpt lat="53.6652295" lon="-2.6418458"/><trkpt lat="53.6651898" lon="-2.6416567"/><trkpt lat="53.6651922" lon="-2.6416191"/></trkseg></trk><trk><name>Broadfields</name><desc>highway=living_street
+lit=yes
+name=Broadfields
+surface=paving_stones</desc><link href="http://osm.org/browse/way/926823648"/><trkseg><trkpt lat="53.6657391" lon="-2.6424696"/><trkpt lat="53.6657373" lon="-2.6423568"/><trkpt lat="53.6657087" lon="-2.6421945"/><trkpt lat="53.6656848" lon="-2.6421113"/></trkseg></trk><trk><name>Broadfields</name><desc>highway=living_street
+name=Broadfields</desc><link href="http://osm.org/browse/way/926841401"/><trkseg><trkpt lat="53.6647321" lon="-2.6431078"/><trkpt lat="53.6648267" lon="-2.6430045"/><trkpt lat="53.6648736" lon="-2.6427121"/><trkpt lat="53.6650762" lon="-2.6427819"/><trkpt lat="53.6651525" lon="-2.6430354"/></trkseg></trk><trk><name>Broadfields</name><desc>highway=living_street
+name=Broadfields</desc><link href="http://osm.org/browse/way/926841402"/><trkseg><trkpt lat="53.6648146" lon="-2.6425418"/><trkpt lat="53.6648736" lon="-2.6427121"/></trkseg></trk><trk><name>Broadfields</name><desc>highway=living_street
+name=Broadfields
+surface=asphalt</desc><link href="http://osm.org/browse/way/926841412"/><trkseg><trkpt lat="53.6657391" lon="-2.6424696"/><trkpt lat="53.6655756" lon="-2.6425022"/></trkseg></trk><trk><name>Broadfields</name><desc>highway=living_street
+name=Broadfields</desc><link href="http://osm.org/browse/way/926841420"/><trkseg><trkpt lat="53.6644127" lon="-2.6422374"/><trkpt lat="53.6645025" lon="-2.6422347"/><trkpt lat="53.6646137" lon="-2.6421905"/></trkseg></trk><trk><name>Broadfields</name><desc>highway=living_street
+name=Broadfields</desc><link href="http://osm.org/browse/way/926841421"/><trkseg><trkpt lat="53.6642801" lon="-2.6422953"/><trkpt lat="53.6644127" lon="-2.6422374"/><trkpt lat="53.664423" lon="-2.6419303"/></trkseg></trk><trk><name>Victoria Avenue</name><desc>highway=living_street
+maxspeed=20 mph
+name=Victoria Avenue
+source=OS_Locator</desc><link href="http://osm.org/browse/way/935804022"/><trkseg><trkpt lat="53.5531848" lon="-2.6451289"/><trkpt lat="53.5524983" lon="-2.6449867"/><trkpt lat="53.5522146" lon="-2.6449246"/></trkseg></trk><trk><name>Albion Street</name><desc>highway=living_street
+name=Albion Street
+surface=paving_stones</desc><link href="http://osm.org/browse/way/936263990"/><trkseg><trkpt lat="53.4962133" lon="-2.5160639"/><trkpt lat="53.4957546" lon="-2.5161743"/></trkseg></trk><trk><name>Merllyn Terrace</name><desc>bicycle=no
+foot=yes
+highway=living_street
+horse=no
+motor_vehicle=no
+name=Merllyn Terrace</desc><link href="http://osm.org/browse/way/955902771"/><trkseg><trkpt lat="53.2571972" lon="-3.4501845"/><trkpt lat="53.2573501" lon="-3.449657"/></trkseg></trk><trk><name>Wiltshire Grove</name><desc>highway=living_street
+name=Wiltshire Grove</desc><link href="http://osm.org/browse/way/974598346"/><trkseg><trkpt lat="53.6801994" lon="-2.6570067"/><trkpt lat="53.6801258" lon="-2.6568805"/><trkpt lat="53.6800598" lon="-2.6566656"/></trkseg></trk><trk><name>Bradshawgate</name><desc>highway=living_street
+lanes=1
+lit=yes
+maxspeed=10 mph
+name=Bradshawgate
+old_ref=A572
+oneway=yes
+source=NAPTAN bus data
+surface=paving_stones</desc><link href="http://osm.org/browse/way/993560666"/><trkseg><trkpt lat="53.4963503" lon="-2.5178216"/><trkpt lat="53.4963808" lon="-2.5182232"/><trkpt lat="53.496409" lon="-2.5185"/></trkseg></trk><trk><name>Clifton Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Clifton Street
+oneway=yes</desc><link href="http://osm.org/browse/way/1009754182"/><trkseg><trkpt lat="53.3831071" lon="-2.5840369"/><trkpt lat="53.3833157" lon="-2.5836809"/><trkpt lat="53.3834627" lon="-2.5834141"/><trkpt lat="53.3834731" lon="-2.5833436"/></trkseg></trk><trk><name>Wellfield Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Wellfield Street</desc><link href="http://osm.org/browse/way/1011497240"/><trkseg><trkpt lat="53.3887448" lon="-2.6132969"/><trkpt lat="53.3886856" lon="-2.613546"/></trkseg></trk><trk><name>Waltham Road</name><desc>highway=living_street
+lit=yes
+name=Waltham Road
+smoothness=good
+surface=asphalt</desc><link href="http://osm.org/browse/way/1015094743"/><trkseg><trkpt lat="53.6788953" lon="-2.6551224"/><trkpt lat="53.6787307" lon="-2.6551103"/><trkpt lat="53.6786363" lon="-2.6551763"/><trkpt lat="53.6784688" lon="-2.655159"/><trkpt lat="53.6784592" lon="-2.6555023"/></trkseg></trk><trk><name>Bridgewater Drive</name><desc>highway=living_street
+lit=yes
+name=Bridgewater Drive
+smoothness=good
+surface=asphalt</desc><link href="http://osm.org/browse/way/1015094804"/><trkseg><trkpt lat="53.6789548" lon="-2.6561647"/><trkpt lat="53.6789404" lon="-2.6569072"/><trkpt lat="53.6786578" lon="-2.6568686"/></trkseg></trk><trk><name>Bridgewater Drive</name><desc>highway=living_street
+lit=yes
+name=Bridgewater Drive
+smoothness=good
+surface=asphalt</desc><link href="http://osm.org/browse/way/1015094805"/><trkseg><trkpt lat="53.6789404" lon="-2.6569072"/><trkpt lat="53.6790217" lon="-2.6569091"/><trkpt lat="53.6790987" lon="-2.6568849"/><trkpt lat="53.6792322" lon="-2.6568206"/></trkseg></trk><trk><name>Wellfield Street</name><desc>highway=living_street
+maxspeed=20 mph
+name=Wellfield Street
+oneway=no</desc><link href="http://osm.org/browse/way/1040413904"/><trkseg><trkpt lat="53.3895409" lon="-2.6139647"/><trkpt lat="53.3891982" lon="-2.6139491"/><trkpt lat="53.3889364" lon="-2.6139372"/><trkpt lat="53.3885942" lon="-2.6139236"/><trkpt lat="53.3885775" lon="-2.613923"/></trkseg></trk><trk><name>Sussex Place</name><desc>highway=living_street
+name=Sussex Place
+tunnel=building_passage</desc><link href="http://osm.org/browse/way/1041486548"/><trkseg><trkpt lat="53.6810462" lon="-2.6541283"/><trkpt lat="53.6810465" lon="-2.654025"/></trkseg></trk><trk><name>Sussex Place</name><desc>highway=living_street
+name=Sussex Place</desc><link href="http://osm.org/browse/way/1041486549"/><trkseg><trkpt lat="53.6810465" lon="-2.654025"/><trkpt lat="53.681047" lon="-2.6537924"/></trkseg></trk><trk><name>Hampton Grove</name><desc>highway=living_street
+lit=yes
+name=Hampton Grove
+surface=asphalt</desc><link href="http://osm.org/browse/way/1058844236"/><trkseg><trkpt lat="53.7000417" lon="-2.6731247"/><trkpt lat="53.7000417" lon="-2.6730533"/><trkpt lat="53.7000421" lon="-2.6726259"/></trkseg></trk><trk><name>Highlands Road</name><desc>highway=living_street
+lcn=yes
+name=Highlands Road</desc><link href="http://osm.org/browse/way/1059404857"/><trkseg><trkpt lat="53.3290181" lon="-2.7391898"/><trkpt lat="53.3290557" lon="-2.739185"/><trkpt lat="53.3291744" lon="-2.7391772"/><trkpt lat="53.3291991" lon="-2.7391783"/></trkseg></trk></gpx>
